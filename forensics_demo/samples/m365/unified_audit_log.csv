@@ -1,0 +1,9 @@
+RecordType,CreationDate,UserIds,Operations,AuditData
+ExchangeItem,2026-08-12T08:56:00Z,jdoe@corp-internal.local,MailItemsAccessed,"{""Workload"":""Exchange"",""ClientIP"":""49.207.10.5"",""ResultStatus"":""Succeeded""}"
+AzureActiveDirectory,2026-08-12T09:15:00Z,jdoe@corp-internal.local,UserLoggedIn,"{""Workload"":""AzureActiveDirectory"",""ClientIP"":""49.207.10.5"",""ResultStatus"":""Succeeded""}"
+AzureActiveDirectory,2026-08-12T09:47:00Z,jdoe@corp-internal.local,Consent to application,"{""Workload"":""AzureActiveDirectory"",""ApplicationDisplayName"":""Quick File Viewer"",""ResultStatus"":""Succeeded"",""Parameters"":[{""Name"":""Scope"",""Value"":""Mail.Read offline_access""},{""Name"":""IsAdminConsent"",""Value"":""False""}]}"
+ExchangeAdmin,2026-08-12T09:50:12Z,jdoe@corp-internal.local,New-InboxRule,"{""Workload"":""Exchange"",""ResultStatus"":""Succeeded"",""Parameters"":[{""Name"":""Name"",""Value"":""Update""},{""Name"":""ForwardTo"",""Value"":""jdoe.backup@0utlook-secure.com""},{""Name"":""DeleteMessage"",""Value"":""True""}]}"
+ExchangeAdmin,2026-08-12T09:52:40Z,jdoe@corp-internal.local,Add-MailboxPermission,"{""Workload"":""Exchange"",""ResultStatus"":""Succeeded"",""ObjectId"":""jdoe@corp-internal.local"",""Parameters"":[{""Name"":""AccessRights"",""Value"":""FullAccess""},{""Name"":""User"",""Value"":""support@0utlook-secure.com""}]}"
+ExchangeItem,2026-08-12T10:05:00Z,jdoe@corp-internal.local,Send,"{""Workload"":""Exchange"",""ClientIP"":""154.72.10.88"",""ResultStatus"":""Succeeded"",""To"":""finance-team@corp-internal.local""}"
+ExchangeItem,2026-08-11T14:00:00Z,asmith@corp-internal.local,MailItemsAccessed,"{""Workload"":""Exchange"",""ClientIP"":""49.207.10.9"",""ResultStatus"":""Succeeded""}"
+AzureActiveDirectory,2026-08-11T14:01:00Z,asmith@corp-internal.local,UserLoggedIn,"{""Workload"":""AzureActiveDirectory"",""ClientIP"":""49.207.10.9"",""ResultStatus"":""Succeeded""}"

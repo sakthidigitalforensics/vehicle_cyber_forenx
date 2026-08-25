@@ -1,0 +1,11 @@
+2026-08-10 03:14:22 [AUTH] Failed login attempt for user admin from 203.0.113.45
+2026-08-10 03:14:25 [AUTH] Failed login attempt for user admin from 203.0.113.45
+2026-08-10 03:14:31 [AUTH] Successful login for user admin from 203.0.113.45
+2026-08-10 03:15:02 [FIREWALL] Outbound connection from 10.0.0.15 to 198.51.100.23:4444
+2026-08-10 03:15:10 [DNS] Query for malicious-c2-panel.xyz resolved to 198.51.100.23
+2026-08-10 03:16:44 [FILE] New file dropped: C:\Users\admin\AppData\Local\Temp\svc_update.exe
+2026-08-10 03:16:45 [AV] File hash detected: 5d41402abc4b2a76b9719d911017c592 (svc_update.exe)
+2026-08-10 03:16:45 [AV] SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b8ff
+2026-08-10 03:17:01 [MAIL] Outbound mail from admin@corp-internal.local to drop.exfil@evil-mail.com
+2026-08-10 03:20:11 [NET] ARP entry updated for 00:1A:2B:3C:4D:5E on VLAN 10
+2026-08-10 03:22:09 [FIREWALL] Connection attempt to 10.0.0.15 from 198.51.100.23:22 blocked

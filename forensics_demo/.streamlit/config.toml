@@ -1,0 +1,111 @@
+# Disables Streamlit's default "phone home" anonymous usage telemetry.
+# Without this, `streamlit run app.py` sends a small anonymous usage-stats
+# ping over the network on startup (nothing case-related, just Streamlit's
+# own framework telemetry) - but this tool's entire premise is that NOTHING
+# leaves this laptop, so that default is turned off explicitly here rather
+# than left to chance.
+[browser]
+gatherUsageStats = false
+
+# Serves ./static/ on localhost only (this app never binds beyond
+# localhost - see server.address below) - required for [[theme.fontFaces]]
+# to load the bundled Nunito/Fredoka/IBM Plex Mono font files below. This is
+# NOT a network call: the files ship inside this folder and are read from
+# local disk, the same way the app's own HTML/CSS/JS is served to its own
+# browser tab.
+[server]
+enableStaticServing = true
+
+# Streamlit's own toolbar (top-right "Deploy" button and the hamburger menu's
+# lower section: Rerun, Clear cache, Settings that let someone edit/redeploy
+# the running app or jump into a GitHub Codespace to edit its source) is
+# meant only for whoever is logged into Streamlit Community Cloud as this
+# app's owner. Left on "auto" (the default), Streamlit tries to detect that
+# itself and normally gets it right, but this pins it explicitly so every
+# visitor, logged into anything or not, sees only the plain viewer menu
+# (Rerun, Settings, Print, record a screencast, About), never the developer
+# section, no guessing needed.
+[client]
+toolbarMode = "viewer"
+
+# "Midnight Sparkle" visual direction - a playful, dark-plum reskin built
+# from Claude Design mockups (turn 2, option 2b): pill-everything shapes,
+# bright pink/mint/purple accents, Fredoka for headings + Nunito for body
+# text, on a near-black plum surface rather than the previous "Lab Dark"
+# instrument-panel look. See core/theme.py for the full palette and the
+# custom CSS that carries this into badges/tiles/cards; CATEGORICAL /
+# STATUS_COLORS in app.py mirror these same colors for the Dashboard's
+# Plotly charts so everything reads as one system.
+[theme]
+base = "dark"
+primaryColor = "#ff86c8"
+backgroundColor = "#150f24"
+secondaryBackgroundColor = "#1d1533"
+textColor = "#f3ebff"
+borderColor = "#2e2348"
+font = "Nunito, system-ui, sans-serif"
+headingFont = "Fredoka, system-ui, sans-serif"
+codeFont = "IBM Plex Mono, ui-monospace, monospace"
+baseRadius = "large"
+
+# Nunito (body) + Fredoka (headings), bundled locally as .woff2 files
+# fetched once at build time from the @fontsource npm packages (which ship
+# the actual font files, not a CDN reference) rather than Google Fonts'
+# stylesheet CDN used by the original HTML mockup - this app makes zero
+# network calls at runtime, including for its own fonts. IBM Plex Mono
+# stays for `st.code()` / raw log line display, where a monospace face is
+# genuinely useful for reading fixed-width technical text, even though the
+# playful mockup itself doesn't use a mono font anywhere.
+[[theme.fontFaces]]
+family = "Nunito"
+url = "app/static/fonts/Nunito-Regular.woff2"
+weight = "400"
+style = "normal"
+
+[[theme.fontFaces]]
+family = "Nunito"
+url = "app/static/fonts/Nunito-SemiBold.woff2"
+weight = "600"
+style = "normal"
+
+[[theme.fontFaces]]
+family = "Nunito"
+url = "app/static/fonts/Nunito-Bold.woff2"
+weight = "700"
+style = "normal"
+
+[[theme.fontFaces]]
+family = "Nunito"
+url = "app/static/fonts/Nunito-ExtraBold.woff2"
+weight = "800"
+style = "normal"
+
+[[theme.fontFaces]]
+family = "Fredoka"
+url = "app/static/fonts/Fredoka-Medium.woff2"
+weight = "500"
+style = "normal"
+
+[[theme.fontFaces]]
+family = "Fredoka"
+url = "app/static/fonts/Fredoka-SemiBold.woff2"
+weight = "600"
+style = "normal"
+
+[[theme.fontFaces]]
+family = "Fredoka"
+url = "app/static/fonts/Fredoka-Bold.woff2"
+weight = "700"
+style = "normal"
+
+[[theme.fontFaces]]
+family = "IBM Plex Mono"
+url = "app/static/fonts/IBMPlexMono-Regular.woff2"
+weight = "400"
+style = "normal"
+
+[[theme.fontFaces]]
+family = "IBM Plex Mono"
+url = "app/static/fonts/IBMPlexMono-Medium.woff2"
+weight = "500"
+style = "normal"

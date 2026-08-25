@@ -1,0 +1,7 @@
+Date (UTC),User,Application,Status,IP address,Location,Sign-in error code,Conditional Access
+2026-08-12 08:55:00,jdoe@corp-internal.local,Office 365 Exchange Online,Success,49.207.10.5,"Chennai, IN",0,Success
+2026-08-12 09:14:10,jdoe@corp-internal.local,Office 365 Exchange Online,Failure,154.72.10.88,"Lagos, NG",50126,notApplied
+2026-08-12 09:14:55,jdoe@corp-internal.local,Office 365 Exchange Online,Success,154.72.10.88,"Lagos, NG",0,notApplied
+2026-08-11 09:00:00,jdoe@corp-internal.local,Office 365 Exchange Online,Success,49.207.10.5,"Chennai, IN",0,Success
+2026-08-11 14:01:00,asmith@corp-internal.local,Office 365 Exchange Online,Success,49.207.10.9,"Chennai, IN",0,Success
+2026-08-10 09:00:00,jdoe@corp-internal.local,Office 365 Exchange Online,Success,49.207.10.5,"Chennai, IN",0,Success

@@ -1,0 +1,1818 @@
+2026-08-11 00:00:21 [FIREWALL] Connection allowed from 10.0.0.24 to 10.0.1.8:443
+2026-08-11 00:00:25 [AUTH] Successful login for user jsmith from 10.0.0.30
+2026-08-11 00:02:20 [AUTH] Successful login for user klee from 10.0.0.42
+2026-08-11 00:02:42 [FILE] User klee accessed \fileserver\shared\report_999.docx
+2026-08-11 00:05:13 [FIREWALL] Connection allowed from 10.0.0.58 to 10.0.1.1:443
+2026-08-11 00:05:18 [FIREWALL] Connection allowed from 10.0.0.35 to 10.0.1.10:443
+2026-08-11 00:06:16 [FIREWALL] Connection allowed from 10.0.0.53 to 10.0.1.18:443
+2026-08-11 00:07:01 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.7
+2026-08-11 00:07:59 [FILE] User klee accessed \fileserver\shared\report_247.docx
+2026-08-11 00:09:54 [PROC] Process explorer.exe started for user tpatel PID 2034
+2026-08-11 00:10:50 [FILE] User rwilliams accessed \fileserver\shared\report_809.docx
+2026-08-11 00:10:52 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.3
+2026-08-11 00:12:54 [PROC] Process explorer.exe started for user klee PID 7422
+2026-08-11 00:13:30 [AUTH] Successful login for user mworkman from 10.0.0.57
+2026-08-11 00:14:27 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.10
+2026-08-11 00:15:27 [PROC] Process explorer.exe started for user asingh PID 4326
+2026-08-11 00:16:07 [FIREWALL] Connection allowed from 10.0.0.49 to 10.0.1.16:443
+2026-08-11 00:16:13 [AUTH] Successful login for user jsmith from 10.0.0.45
+2026-08-11 00:16:32 [PROC] Process explorer.exe started for user asingh PID 6498
+2026-08-11 00:17:50 [FIREWALL] Connection allowed from 10.0.0.57 to 10.0.1.15:443
+2026-08-11 00:18:16 [FIREWALL] Connection allowed from 10.0.0.48 to 10.0.1.8:443
+2026-08-11 00:18:22 [FILE] User klee accessed \fileserver\shared\report_90.docx
+2026-08-11 00:18:46 [FILE] User rwilliams accessed \fileserver\shared\report_887.docx
+2026-08-11 00:19:59 [AUTH] Successful login for user tpatel from 10.0.0.58
+2026-08-11 00:21:22 [FILE] User rwilliams accessed \fileserver\shared\report_719.docx
+2026-08-11 00:21:24 [PROC] Process explorer.exe started for user mworkman PID 2535
+2026-08-11 00:21:51 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.3
+2026-08-11 00:22:50 [FIREWALL] Connection allowed from 10.0.0.40 to 10.0.1.1:443
+2026-08-11 00:23:35 [PROC] Process explorer.exe started for user klee PID 2063
+2026-08-11 00:24:38 [PROC] Process explorer.exe started for user klee PID 7200
+2026-08-11 00:25:59 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.11
+2026-08-11 00:29:45 [FILE] User jsmith accessed \fileserver\shared\report_56.docx
+2026-08-11 00:30:06 [FILE] User asingh accessed \fileserver\shared\report_852.docx
+2026-08-11 00:30:57 [AUTH] Successful login for user jsmith from 10.0.0.44
+2026-08-11 00:31:13 [FILE] User asingh accessed \fileserver\shared\report_381.docx
+2026-08-11 00:33:12 [AUTH] Successful login for user mworkman from 10.0.0.46
+2026-08-11 00:33:30 [AUTH] Successful login for user klee from 10.0.0.59
+2026-08-11 00:33:37 [FIREWALL] Connection allowed from 10.0.0.35 to 10.0.1.17:443
+2026-08-11 00:35:26 [AUTH] Successful login for user mworkman from 10.0.0.27
+2026-08-11 00:36:48 [FILE] User tpatel accessed \fileserver\shared\report_206.docx
+2026-08-11 00:37:51 [FILE] User klee accessed \fileserver\shared\report_485.docx
+2026-08-11 00:39:09 [FIREWALL] Connection allowed from 10.0.0.50 to 10.0.1.4:443
+2026-08-11 00:41:31 [FILE] User klee accessed \fileserver\shared\report_398.docx
+2026-08-11 00:42:37 [AUTH] Successful login for user jsmith from 10.0.0.33
+2026-08-11 00:45:51 [PROC] Process explorer.exe started for user jsmith PID 3578
+2026-08-11 00:47:21 [FILE] User rwilliams accessed \fileserver\shared\report_626.docx
+2026-08-11 00:47:40 [PROC] Process explorer.exe started for user asingh PID 8611
+2026-08-11 00:48:06 [AUTH] Successful login for user rwilliams from 10.0.0.33
+2026-08-11 00:50:06 [PROC] Process explorer.exe started for user tpatel PID 2657
+2026-08-11 00:50:48 [FIREWALL] Connection allowed from 10.0.0.22 to 10.0.1.9:443
+2026-08-11 00:55:49 [AUTH] Successful login for user tpatel from 10.0.0.49
+2026-08-11 00:55:51 [FIREWALL] Connection allowed from 10.0.0.41 to 10.0.1.14:443
+2026-08-11 00:59:35 [PROC] Process explorer.exe started for user tpatel PID 8980
+2026-08-11 01:00:13 [FILE] User mworkman accessed \fileserver\shared\report_297.docx
+2026-08-11 01:00:21 [FIREWALL] Connection allowed from 10.0.0.36 to 10.0.1.6:443
+2026-08-11 01:02:30 [PROC] Process explorer.exe started for user jsmith PID 4230
+2026-08-11 01:03:21 [FIREWALL] Connection allowed from 10.0.0.42 to 10.0.1.2:443
+2026-08-11 01:04:42 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.6
+2026-08-11 01:05:20 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.10
+2026-08-11 01:05:47 [FILE] User rwilliams accessed \fileserver\shared\report_986.docx
+2026-08-11 01:06:21 [FIREWALL] Connection allowed from 10.0.0.46 to 10.0.1.18:443
+2026-08-11 01:08:31 [FILE] User tpatel accessed \fileserver\shared\report_290.docx
+2026-08-11 01:08:31 [AUTH] Successful login for user klee from 10.0.0.55
+2026-08-11 01:08:32 [PROC] Process explorer.exe started for user klee PID 1816
+2026-08-11 01:08:36 [PROC] Process explorer.exe started for user mworkman PID 1321
+2026-08-11 01:09:10 [PROC] Process explorer.exe started for user jsmith PID 4629
+2026-08-11 01:09:20 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.12
+2026-08-11 01:10:20 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.18
+2026-08-11 01:10:47 [PROC] Process explorer.exe started for user rwilliams PID 1734
+2026-08-11 01:10:50 [FILE] User rwilliams accessed \fileserver\shared\report_450.docx
+2026-08-11 01:11:35 [FILE] User tpatel accessed \fileserver\shared\report_442.docx
+2026-08-11 01:12:07 [FIREWALL] Connection allowed from 10.0.0.50 to 10.0.1.16:443
+2026-08-11 01:12:09 [AUTH] Successful login for user mworkman from 10.0.0.31
+2026-08-11 01:15:05 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.2
+2026-08-11 01:16:52 [FILE] User mworkman accessed \fileserver\shared\report_504.docx
+2026-08-11 01:17:31 [PROC] Process explorer.exe started for user mworkman PID 7726
+2026-08-11 01:17:49 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.16
+2026-08-11 01:18:45 [AUTH] Successful login for user klee from 10.0.0.48
+2026-08-11 01:18:58 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.16
+2026-08-11 01:20:05 [FILE] User jsmith accessed \fileserver\shared\report_982.docx
+2026-08-11 01:20:36 [FIREWALL] Connection allowed from 10.0.0.36 to 10.0.1.12:443
+2026-08-11 01:21:00 [AUTH] Successful login for user tpatel from 10.0.0.47
+2026-08-11 01:22:00 [PROC] Process explorer.exe started for user asingh PID 3899
+2026-08-11 01:22:34 [FILE] User tpatel accessed \fileserver\shared\report_713.docx
+2026-08-11 01:24:42 [FIREWALL] Connection allowed from 10.0.0.44 to 10.0.1.4:443
+2026-08-11 01:25:03 [PROC] Process explorer.exe started for user rwilliams PID 5532
+2026-08-11 01:25:04 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.11
+2026-08-11 01:26:48 [AUTH] Successful login for user klee from 10.0.0.46
+2026-08-11 01:28:06 [FILE] User tpatel accessed \fileserver\shared\report_662.docx
+2026-08-11 01:28:22 [PROC] Process explorer.exe started for user asingh PID 1921
+2026-08-11 01:29:03 [FIREWALL] Connection allowed from 10.0.0.47 to 10.0.1.13:443
+2026-08-11 01:30:07 [FILE] User jsmith accessed \fileserver\shared\report_684.docx
+2026-08-11 01:32:21 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.5
+2026-08-11 01:32:27 [AUTH] Successful login for user klee from 10.0.0.27
+2026-08-11 01:33:50 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.1
+2026-08-11 01:34:01 [FIREWALL] Connection allowed from 10.0.0.38 to 10.0.1.9:443
+2026-08-11 01:35:16 [PROC] Process explorer.exe started for user rwilliams PID 3996
+2026-08-11 01:35:25 [FILE] User jsmith accessed \fileserver\shared\report_445.docx
+2026-08-11 01:35:26 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.5
+2026-08-11 01:35:35 [AUTH] Successful login for user jsmith from 10.0.0.58
+2026-08-11 01:35:37 [FIREWALL] Connection allowed from 10.0.0.47 to 10.0.1.18:443
+2026-08-11 01:36:55 [FIREWALL] Connection allowed from 10.0.0.29 to 10.0.1.1:443
+2026-08-11 01:37:11 [FILE] User jsmith accessed \fileserver\shared\report_145.docx
+2026-08-11 01:37:34 [FIREWALL] Connection allowed from 10.0.0.47 to 10.0.1.11:443
+2026-08-11 01:38:00 [AUTH] Successful login for user asingh from 10.0.0.32
+2026-08-11 01:38:47 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.13
+2026-08-11 01:39:20 [FIREWALL] Connection allowed from 10.0.0.23 to 10.0.1.10:443
+2026-08-11 01:40:30 [PROC] Process explorer.exe started for user mworkman PID 6376
+2026-08-11 01:41:08 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.18
+2026-08-11 01:41:15 [FIREWALL] Connection allowed from 10.0.0.27 to 10.0.1.1:443
+2026-08-11 01:41:16 [AUTH] Successful login for user jsmith from 10.0.0.30
+2026-08-11 01:41:22 [AUTH] Successful login for user mworkman from 10.0.0.22
+2026-08-11 01:42:03 [FIREWALL] Connection allowed from 10.0.0.30 to 10.0.1.10:443
+2026-08-11 01:42:21 [PROC] Process explorer.exe started for user mworkman PID 2263
+2026-08-11 01:44:07 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.4
+2026-08-11 01:44:23 [FIREWALL] Connection allowed from 10.0.0.48 to 10.0.1.8:443
+2026-08-11 01:45:27 [AUTH] Successful login for user rwilliams from 10.0.0.54
+2026-08-11 01:46:04 [FILE] User jsmith accessed \fileserver\shared\report_100.docx
+2026-08-11 01:48:41 [AUTH] Successful login for user asingh from 10.0.0.39
+2026-08-11 01:48:48 [FIREWALL] Connection allowed from 10.0.0.53 to 10.0.1.15:443
+2026-08-11 01:50:21 [FIREWALL] Connection allowed from 10.0.0.56 to 10.0.1.7:443
+2026-08-11 01:51:23 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.4
+2026-08-11 01:53:08 [FIREWALL] Connection allowed from 10.0.0.32 to 10.0.1.4:443
+2026-08-11 01:54:30 [FILE] User rwilliams accessed \fileserver\shared\report_920.docx
+2026-08-11 01:54:55 [AUTH] Successful login for user mworkman from 10.0.0.22
+2026-08-11 01:55:57 [AUTH] Successful login for user klee from 10.0.0.58
+2026-08-11 01:56:27 [FIREWALL] Connection allowed from 10.0.0.59 to 10.0.1.15:443
+2026-08-11 01:56:41 [AUTH] Successful login for user rwilliams from 10.0.0.31
+2026-08-11 01:58:14 [PROC] Process explorer.exe started for user asingh PID 8983
+2026-08-11 01:58:58 [FIREWALL] Connection allowed from 10.0.0.34 to 10.0.1.13:443
+2026-08-11 01:59:52 [FIREWALL] Connection allowed from 10.0.0.43 to 10.0.1.5:443
+2026-08-11 01:59:57 [AUTH] Successful login for user asingh from 10.0.0.22
+2026-08-11 02:04:16 [FIREWALL] Connection allowed from 10.0.0.25 to 10.0.1.2:443
+2026-08-11 02:04:46 [FIREWALL] Connection allowed from 10.0.0.30 to 10.0.1.19:443
+2026-08-11 02:05:03 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.7
+2026-08-11 02:06:43 [AUTH] Successful login for user rwilliams from 10.0.0.23
+2026-08-11 02:08:17 [PROC] Process explorer.exe started for user tpatel PID 6833
+2026-08-11 02:08:41 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.14
+2026-08-11 02:08:48 [AUTH] Successful login for user klee from 10.0.0.48
+2026-08-11 02:09:38 [FIREWALL] Connection allowed from 10.0.0.46 to 10.0.1.13:443
+2026-08-11 02:10:00 [AUTH] Failed login attempt for user rwilliams from 185.220.101.47
+2026-08-11 02:10:03 [AUTH] Failed login attempt for user rwilliams from 185.220.101.47
+2026-08-11 02:10:06 [AUTH] Failed login attempt for user rwilliams from 185.220.101.47
+2026-08-11 02:10:09 [AUTH] Failed login attempt for user rwilliams from 185.220.101.47
+2026-08-11 02:10:12 [AUTH] Failed login attempt for user rwilliams from 185.220.101.47
+2026-08-11 02:10:15 [AUTH] Failed login attempt for user rwilliams from 185.220.101.47
+2026-08-11 02:10:28 [PROC] Process explorer.exe started for user asingh PID 4283
+2026-08-11 02:11:05 [AUTH] Successful login for user rwilliams from 185.220.101.47
+2026-08-11 02:11:08 [FILE] User jsmith accessed \fileserver\shared\report_279.docx
+2026-08-11 02:11:20 [PROC] Process powershell.exe started for user rwilliams PID 7781
+2026-08-11 02:12:00 [FIREWALL] Outbound connection from 10.0.0.44 to 91.219.237.244:8443
+2026-08-11 02:12:10 [FIREWALL] Outbound connection from 10.0.0.44 to 91.219.237.244:8443
+2026-08-11 02:12:20 [FIREWALL] Outbound connection from 10.0.0.44 to 91.219.237.244:8443
+2026-08-11 02:12:30 [FIREWALL] Outbound connection from 10.0.0.44 to 91.219.237.244:8443
+2026-08-11 02:12:40 [FIREWALL] Outbound connection from 10.0.0.44 to 91.219.237.244:8443
+2026-08-11 02:13:00 [DNS] Query for update-cdn-secure.net resolved to 91.219.237.244
+2026-08-11 02:13:52 [FIREWALL] Connection allowed from 10.0.0.20 to 10.0.1.5:443
+2026-08-11 02:14:00 [FILE] New file dropped: C:\Windows\Temp\svchost_update.exe
+2026-08-11 02:14:05 [AV] SHA256: 9f3a1c2b8e7d6f5a4c3b2a1908f7e6d5c4b3a29180f7e6d5c4b3a29180f7e6d
+2026-08-11 02:15:00 [MAIL] Outbound mail from rwilliams@corp-internal.local to backup.sync@corp-lntemal.net
+2026-08-11 02:15:10 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.11
+2026-08-11 02:15:38 [AUTH] Successful login for user klee from 10.0.0.41
+2026-08-11 02:15:49 [FILE] User klee accessed \fileserver\shared\report_34.docx
+2026-08-11 02:16:00 [FIREWALL] Connection attempt to 10.0.0.44 from 91.219.237.244:4444 blocked
+2026-08-11 02:16:20 [FIREWALL] Connection allowed from 10.0.0.27 to 10.0.1.3:443
+2026-08-11 02:17:07 [PROC] Process explorer.exe started for user jsmith PID 1540
+2026-08-11 02:17:24 [FIREWALL] Connection allowed from 10.0.0.32 to 10.0.1.17:443
+2026-08-11 02:17:49 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.9
+2026-08-11 02:17:56 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.19
+2026-08-11 02:18:30 [FIREWALL] Connection allowed from 10.0.0.37 to 10.0.1.11:443
+2026-08-11 02:18:42 [AUTH] Successful login for user klee from 10.0.0.26
+2026-08-11 02:19:02 [AUTH] Successful login for user jsmith from 10.0.0.41
+2026-08-11 02:19:13 [FILE] User mworkman accessed \fileserver\shared\report_146.docx
+2026-08-11 02:19:19 [PROC] Process explorer.exe started for user rwilliams PID 1932
+2026-08-11 02:19:29 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.12
+2026-08-11 02:21:47 [PROC] Process explorer.exe started for user mworkman PID 4012
+2026-08-11 02:22:15 [AUTH] Successful login for user rwilliams from 10.0.0.41
+2026-08-11 02:23:22 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.17
+2026-08-11 02:23:45 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.11
+2026-08-11 02:24:07 [FILE] User jsmith accessed \fileserver\shared\report_600.docx
+2026-08-11 02:24:40 [FIREWALL] Connection allowed from 10.0.0.34 to 10.0.1.11:443
+2026-08-11 02:25:43 [FILE] User jsmith accessed \fileserver\shared\report_488.docx
+2026-08-11 02:25:55 [AUTH] Successful login for user asingh from 10.0.0.21
+2026-08-11 02:25:57 [FIREWALL] Connection allowed from 10.0.0.24 to 10.0.1.4:443
+2026-08-11 02:26:56 [FILE] User klee accessed \fileserver\shared\report_776.docx
+2026-08-11 02:26:56 [AUTH] Successful login for user jsmith from 10.0.0.44
+2026-08-11 02:27:25 [FIREWALL] Connection allowed from 10.0.0.58 to 10.0.1.19:443
+2026-08-11 02:27:40 [FIREWALL] Connection allowed from 10.0.0.59 to 10.0.1.9:443
+2026-08-11 02:27:46 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.7
+2026-08-11 02:28:22 [PROC] Process explorer.exe started for user klee PID 4742
+2026-08-11 02:30:01 [PROC] Process explorer.exe started for user jsmith PID 6325
+2026-08-11 02:30:07 [FILE] User asingh accessed \fileserver\shared\report_290.docx
+2026-08-11 02:30:26 [PROC] Process explorer.exe started for user rwilliams PID 5908
+2026-08-11 02:32:58 [FIREWALL] Connection allowed from 10.0.0.54 to 10.0.1.11:443
+2026-08-11 02:33:46 [FILE] User klee accessed \fileserver\shared\report_404.docx
+2026-08-11 02:35:29 [AUTH] Successful login for user klee from 10.0.0.32
+2026-08-11 02:35:48 [AUTH] Successful login for user tpatel from 10.0.0.46
+2026-08-11 02:35:57 [AUTH] Successful login for user klee from 10.0.0.58
+2026-08-11 02:36:08 [PROC] Process explorer.exe started for user klee PID 6321
+2026-08-11 02:36:40 [AUTH] Successful login for user mworkman from 10.0.0.29
+2026-08-11 02:37:08 [AUTH] Successful login for user mworkman from 10.0.0.36
+2026-08-11 02:37:36 [AUTH] Successful login for user asingh from 10.0.0.28
+2026-08-11 02:38:38 [AUTH] Successful login for user mworkman from 10.0.0.55
+2026-08-11 02:40:40 [AUTH] Successful login for user jsmith from 10.0.0.50
+2026-08-11 02:40:50 [AUTH] Successful login for user asingh from 10.0.0.52
+2026-08-11 02:41:36 [FIREWALL] Connection allowed from 10.0.0.22 to 10.0.1.6:443
+2026-08-11 02:41:59 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.8
+2026-08-11 02:42:48 [PROC] Process explorer.exe started for user asingh PID 3404
+2026-08-11 02:43:27 [FIREWALL] Connection allowed from 10.0.0.29 to 10.0.1.9:443
+2026-08-11 02:43:42 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.18
+2026-08-11 02:46:27 [AUTH] Successful login for user asingh from 10.0.0.58
+2026-08-11 02:46:51 [AUTH] Successful login for user jsmith from 10.0.0.40
+2026-08-11 02:47:38 [FILE] User tpatel accessed \fileserver\shared\report_548.docx
+2026-08-11 02:48:03 [AUTH] Successful login for user mworkman from 10.0.0.30
+2026-08-11 02:48:10 [FILE] User asingh accessed \fileserver\shared\report_851.docx
+2026-08-11 02:48:58 [FILE] User rwilliams accessed \fileserver\shared\report_567.docx
+2026-08-11 02:49:17 [FILE] User tpatel accessed \fileserver\shared\report_696.docx
+2026-08-11 02:49:38 [PROC] Process explorer.exe started for user asingh PID 5742
+2026-08-11 02:49:39 [FILE] User mworkman accessed \fileserver\shared\report_275.docx
+2026-08-11 02:49:41 [AUTH] Successful login for user jsmith from 10.0.0.35
+2026-08-11 02:50:34 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.7
+2026-08-11 02:51:12 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.11
+2026-08-11 02:51:34 [PROC] Process explorer.exe started for user klee PID 1368
+2026-08-11 02:52:25 [PROC] Process explorer.exe started for user mworkman PID 8457
+2026-08-11 02:52:42 [AUTH] Successful login for user jsmith from 10.0.0.46
+2026-08-11 02:52:51 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.10
+2026-08-11 02:53:05 [AUTH] Successful login for user asingh from 10.0.0.26
+2026-08-11 02:53:48 [PROC] Process explorer.exe started for user mworkman PID 7660
+2026-08-11 02:54:14 [AUTH] Successful login for user asingh from 10.0.0.37
+2026-08-11 02:54:38 [FIREWALL] Connection allowed from 10.0.0.56 to 10.0.1.6:443
+2026-08-11 02:55:03 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.10
+2026-08-11 02:55:20 [PROC] Process explorer.exe started for user asingh PID 6812
+2026-08-11 02:56:36 [AUTH] Successful login for user tpatel from 10.0.0.34
+2026-08-11 02:56:44 [FIREWALL] Connection allowed from 10.0.0.22 to 10.0.1.12:443
+2026-08-11 02:57:02 [FILE] User jsmith accessed \fileserver\shared\report_286.docx
+2026-08-11 02:57:26 [FILE] User tpatel accessed \fileserver\shared\report_966.docx
+2026-08-11 02:58:15 [FIREWALL] Connection allowed from 10.0.0.41 to 10.0.1.10:443
+2026-08-11 02:58:24 [FILE] User mworkman accessed \fileserver\shared\report_676.docx
+2026-08-11 02:58:51 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.5
+2026-08-11 03:00:22 [FIREWALL] Connection allowed from 10.0.0.42 to 10.0.1.1:443
+2026-08-11 03:00:45 [PROC] Process explorer.exe started for user asingh PID 1970
+2026-08-11 03:01:18 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.17
+2026-08-11 03:01:40 [PROC] Process explorer.exe started for user mworkman PID 5512
+2026-08-11 03:01:52 [AUTH] Successful login for user jsmith from 10.0.0.54
+2026-08-11 03:02:00 [PROC] Process explorer.exe started for user rwilliams PID 5485
+2026-08-11 03:02:08 [PROC] Process explorer.exe started for user mworkman PID 5607
+2026-08-11 03:02:57 [FIREWALL] Connection allowed from 10.0.0.28 to 10.0.1.14:443
+2026-08-11 03:03:25 [PROC] Process explorer.exe started for user rwilliams PID 1446
+2026-08-11 03:04:23 [PROC] Process explorer.exe started for user klee PID 3311
+2026-08-11 03:05:03 [AUTH] Successful login for user asingh from 10.0.0.40
+2026-08-11 03:05:30 [FIREWALL] Connection allowed from 10.0.0.54 to 10.0.1.1:443
+2026-08-11 03:06:04 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.1
+2026-08-11 03:06:34 [FIREWALL] Connection allowed from 10.0.0.29 to 10.0.1.6:443
+2026-08-11 03:06:50 [AUTH] Successful login for user mworkman from 10.0.0.29
+2026-08-11 03:06:54 [AUTH] Successful login for user jsmith from 10.0.0.28
+2026-08-11 03:08:20 [PROC] Process explorer.exe started for user jsmith PID 6362
+2026-08-11 03:08:31 [FIREWALL] Connection allowed from 10.0.0.55 to 10.0.1.12:443
+2026-08-11 03:10:40 [AUTH] Successful login for user mworkman from 10.0.0.43
+2026-08-11 03:10:49 [PROC] Process explorer.exe started for user rwilliams PID 2726
+2026-08-11 03:10:50 [FIREWALL] Connection allowed from 10.0.0.45 to 10.0.1.17:443
+2026-08-11 03:11:13 [FILE] User asingh accessed \fileserver\shared\report_884.docx
+2026-08-11 03:11:30 [PROC] Process explorer.exe started for user rwilliams PID 5123
+2026-08-11 03:12:18 [AUTH] Successful login for user mworkman from 10.0.0.45
+2026-08-11 03:13:09 [PROC] Process explorer.exe started for user mworkman PID 6025
+2026-08-11 03:13:51 [PROC] Process explorer.exe started for user asingh PID 7070
+2026-08-11 03:15:12 [FIREWALL] Connection allowed from 10.0.0.48 to 10.0.1.5:443
+2026-08-11 03:15:31 [PROC] Process explorer.exe started for user jsmith PID 3958
+2026-08-11 03:16:30 [FILE] User mworkman accessed \fileserver\shared\report_885.docx
+2026-08-11 03:16:39 [FIREWALL] Connection allowed from 10.0.0.27 to 10.0.1.13:443
+2026-08-11 03:16:41 [PROC] Process explorer.exe started for user asingh PID 7015
+2026-08-11 03:17:03 [FILE] User asingh accessed \fileserver\shared\report_68.docx
+2026-08-11 03:18:19 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.7
+2026-08-11 03:19:01 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.15
+2026-08-11 03:20:04 [PROC] Process explorer.exe started for user mworkman PID 4225
+2026-08-11 03:20:14 [AUTH] Successful login for user mworkman from 10.0.0.46
+2026-08-11 03:21:10 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.6
+2026-08-11 03:23:36 [FILE] User jsmith accessed \fileserver\shared\report_121.docx
+2026-08-11 03:24:02 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.9
+2026-08-11 03:24:23 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.12
+2026-08-11 03:25:44 [AUTH] Successful login for user mworkman from 10.0.0.30
+2026-08-11 03:26:22 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.10
+2026-08-11 03:27:08 [FILE] User tpatel accessed \fileserver\shared\report_375.docx
+2026-08-11 03:27:31 [FIREWALL] Connection allowed from 10.0.0.53 to 10.0.1.17:443
+2026-08-11 03:28:29 [AUTH] Successful login for user mworkman from 10.0.0.53
+2026-08-11 03:29:06 [FIREWALL] Connection allowed from 10.0.0.20 to 10.0.1.2:443
+2026-08-11 03:29:08 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.18
+2026-08-11 03:29:23 [FILE] User rwilliams accessed \fileserver\shared\report_111.docx
+2026-08-11 03:29:44 [FILE] User tpatel accessed \fileserver\shared\report_513.docx
+2026-08-11 03:30:45 [PROC] Process explorer.exe started for user tpatel PID 4702
+2026-08-11 03:31:12 [PROC] Process explorer.exe started for user mworkman PID 8971
+2026-08-11 03:31:41 [PROC] Process explorer.exe started for user mworkman PID 5693
+2026-08-11 03:32:43 [AUTH] Successful login for user mworkman from 10.0.0.34
+2026-08-11 03:32:46 [PROC] Process explorer.exe started for user jsmith PID 7428
+2026-08-11 03:32:56 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.8
+2026-08-11 03:33:06 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.10
+2026-08-11 03:33:42 [PROC] Process explorer.exe started for user rwilliams PID 8246
+2026-08-11 03:34:14 [FIREWALL] Connection allowed from 10.0.0.29 to 10.0.1.3:443
+2026-08-11 03:34:22 [FIREWALL] Connection allowed from 10.0.0.39 to 10.0.1.15:443
+2026-08-11 03:36:46 [PROC] Process explorer.exe started for user jsmith PID 4498
+2026-08-11 03:37:38 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.4
+2026-08-11 03:38:48 [FIREWALL] Connection allowed from 10.0.0.40 to 10.0.1.11:443
+2026-08-11 03:41:53 [FIREWALL] Connection allowed from 10.0.0.38 to 10.0.1.17:443
+2026-08-11 03:42:26 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.7
+2026-08-11 03:43:36 [PROC] Process explorer.exe started for user mworkman PID 7260
+2026-08-11 03:43:47 [PROC] Process explorer.exe started for user jsmith PID 1260
+2026-08-11 03:44:11 [FILE] User klee accessed \fileserver\shared\report_655.docx
+2026-08-11 03:44:13 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.6
+2026-08-11 03:44:49 [FILE] User tpatel accessed \fileserver\shared\report_816.docx
+2026-08-11 03:45:28 [FILE] User jsmith accessed \fileserver\shared\report_745.docx
+2026-08-11 03:46:14 [PROC] Process explorer.exe started for user asingh PID 5310
+2026-08-11 03:47:03 [AUTH] Successful login for user asingh from 10.0.0.21
+2026-08-11 03:47:04 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.17
+2026-08-11 03:48:20 [AUTH] Successful login for user asingh from 10.0.0.27
+2026-08-11 03:50:18 [PROC] Process explorer.exe started for user klee PID 4137
+2026-08-11 03:50:39 [PROC] Process explorer.exe started for user jsmith PID 5155
+2026-08-11 03:50:59 [AUTH] Successful login for user mworkman from 10.0.0.53
+2026-08-11 03:51:00 [FIREWALL] Connection allowed from 10.0.0.55 to 10.0.1.3:443
+2026-08-11 03:51:53 [FIREWALL] Connection allowed from 10.0.0.30 to 10.0.1.2:443
+2026-08-11 03:53:20 [FIREWALL] Connection allowed from 10.0.0.25 to 10.0.1.15:443
+2026-08-11 03:55:40 [FILE] User tpatel accessed \fileserver\shared\report_157.docx
+2026-08-11 03:56:06 [PROC] Process explorer.exe started for user mworkman PID 5954
+2026-08-11 03:56:36 [FIREWALL] Connection allowed from 10.0.0.58 to 10.0.1.2:443
+2026-08-11 03:57:33 [AUTH] Successful login for user mworkman from 10.0.0.33
+2026-08-11 03:57:36 [AUTH] Successful login for user mworkman from 10.0.0.52
+2026-08-11 03:59:24 [AUTH] Successful login for user rwilliams from 10.0.0.38
+2026-08-11 04:00:12 [AUTH] Successful login for user jsmith from 10.0.0.32
+2026-08-11 04:00:47 [PROC] Process explorer.exe started for user rwilliams PID 4882
+2026-08-11 04:00:59 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.18
+2026-08-11 04:02:09 [FILE] User rwilliams accessed \fileserver\shared\report_503.docx
+2026-08-11 04:02:12 [AUTH] Successful login for user tpatel from 10.0.0.57
+2026-08-11 04:03:58 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.14
+2026-08-11 04:04:18 [AUTH] Successful login for user rwilliams from 10.0.0.54
+2026-08-11 04:05:11 [PROC] Process explorer.exe started for user rwilliams PID 5156
+2026-08-11 04:05:27 [AUTH] Successful login for user jsmith from 10.0.0.21
+2026-08-11 04:05:49 [PROC] Process explorer.exe started for user jsmith PID 6278
+2026-08-11 04:06:10 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.14
+2026-08-11 04:08:34 [FILE] User mworkman accessed \fileserver\shared\report_135.docx
+2026-08-11 04:09:30 [FILE] User rwilliams accessed \fileserver\shared\report_378.docx
+2026-08-11 04:09:50 [PROC] Process explorer.exe started for user asingh PID 8283
+2026-08-11 04:10:17 [AUTH] Successful login for user jsmith from 10.0.0.59
+2026-08-11 04:10:37 [FILE] User jsmith accessed \fileserver\shared\report_727.docx
+2026-08-11 04:11:46 [AUTH] Successful login for user tpatel from 10.0.0.56
+2026-08-11 04:11:49 [AUTH] Successful login for user asingh from 10.0.0.39
+2026-08-11 04:12:00 [PROC] Process explorer.exe started for user klee PID 5076
+2026-08-11 04:12:26 [PROC] Process explorer.exe started for user tpatel PID 8988
+2026-08-11 04:12:35 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.5
+2026-08-11 04:13:09 [FILE] User rwilliams accessed \fileserver\shared\report_245.docx
+2026-08-11 04:13:13 [FIREWALL] Connection allowed from 10.0.0.20 to 10.0.1.12:443
+2026-08-11 04:13:41 [FIREWALL] Connection allowed from 10.0.0.54 to 10.0.1.7:443
+2026-08-11 04:15:12 [PROC] Process explorer.exe started for user rwilliams PID 3189
+2026-08-11 04:16:19 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.14
+2026-08-11 04:17:47 [FIREWALL] Connection allowed from 10.0.0.45 to 10.0.1.10:443
+2026-08-11 04:19:44 [PROC] Process explorer.exe started for user mworkman PID 6375
+2026-08-11 04:19:45 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.19
+2026-08-11 04:19:54 [FIREWALL] Connection allowed from 10.0.0.58 to 10.0.1.18:443
+2026-08-11 04:20:07 [FIREWALL] Connection allowed from 10.0.0.27 to 10.0.1.6:443
+2026-08-11 04:20:50 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.8
+2026-08-11 04:21:45 [FIREWALL] Connection allowed from 10.0.0.23 to 10.0.1.1:443
+2026-08-11 04:22:18 [FIREWALL] Connection allowed from 10.0.0.25 to 10.0.1.1:443
+2026-08-11 04:22:47 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.7
+2026-08-11 04:23:09 [AUTH] Successful login for user mworkman from 10.0.0.24
+2026-08-11 04:23:28 [PROC] Process explorer.exe started for user mworkman PID 1995
+2026-08-11 04:23:34 [FIREWALL] Connection allowed from 10.0.0.54 to 10.0.1.14:443
+2026-08-11 04:24:34 [FIREWALL] Connection allowed from 10.0.0.55 to 10.0.1.12:443
+2026-08-11 04:24:45 [FIREWALL] Connection allowed from 10.0.0.44 to 10.0.1.11:443
+2026-08-11 04:26:07 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.9
+2026-08-11 04:27:32 [AUTH] Successful login for user jsmith from 10.0.0.53
+2026-08-11 04:28:10 [FIREWALL] Connection allowed from 10.0.0.52 to 10.0.1.9:443
+2026-08-11 04:28:34 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.18
+2026-08-11 04:30:48 [PROC] Process explorer.exe started for user asingh PID 3717
+2026-08-11 04:31:48 [FILE] User tpatel accessed \fileserver\shared\report_740.docx
+2026-08-11 04:32:04 [FILE] User klee accessed \fileserver\shared\report_282.docx
+2026-08-11 04:32:22 [AUTH] Successful login for user asingh from 10.0.0.51
+2026-08-11 04:32:40 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.5
+2026-08-11 04:34:26 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.13
+2026-08-11 04:34:49 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.4
+2026-08-11 04:35:03 [PROC] Process explorer.exe started for user rwilliams PID 6488
+2026-08-11 04:35:46 [PROC] Process explorer.exe started for user rwilliams PID 7358
+2026-08-11 04:36:37 [PROC] Process explorer.exe started for user jsmith PID 7386
+2026-08-11 04:36:40 [FILE] User tpatel accessed \fileserver\shared\report_463.docx
+2026-08-11 04:37:45 [FIREWALL] Connection allowed from 10.0.0.53 to 10.0.1.12:443
+2026-08-11 04:38:45 [AUTH] Successful login for user klee from 10.0.0.55
+2026-08-11 04:39:36 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.16
+2026-08-11 04:41:23 [FILE] User mworkman accessed \fileserver\shared\report_450.docx
+2026-08-11 04:41:44 [AUTH] Successful login for user jsmith from 10.0.0.47
+2026-08-11 04:41:55 [FILE] User jsmith accessed \fileserver\shared\report_403.docx
+2026-08-11 04:42:30 [PROC] Process explorer.exe started for user mworkman PID 8146
+2026-08-11 04:42:30 [FIREWALL] Connection allowed from 10.0.0.42 to 10.0.1.18:443
+2026-08-11 04:44:21 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.17
+2026-08-11 04:45:20 [FIREWALL] Connection allowed from 10.0.0.45 to 10.0.1.16:443
+2026-08-11 04:45:28 [AUTH] Successful login for user mworkman from 10.0.0.25
+2026-08-11 04:45:51 [FILE] User rwilliams accessed \fileserver\shared\report_73.docx
+2026-08-11 04:45:54 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.12
+2026-08-11 04:46:46 [PROC] Process explorer.exe started for user klee PID 1640
+2026-08-11 04:47:16 [PROC] Process explorer.exe started for user mworkman PID 2820
+2026-08-11 04:47:44 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.1
+2026-08-11 04:49:41 [FIREWALL] Connection allowed from 10.0.0.29 to 10.0.1.13:443
+2026-08-11 04:50:34 [FILE] User rwilliams accessed \fileserver\shared\report_851.docx
+2026-08-11 04:52:18 [FIREWALL] Connection allowed from 10.0.0.49 to 10.0.1.5:443
+2026-08-11 04:52:50 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.14
+2026-08-11 04:54:04 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.3
+2026-08-11 04:54:20 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.10
+2026-08-11 04:55:20 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.13
+2026-08-11 04:55:57 [PROC] Process explorer.exe started for user klee PID 2502
+2026-08-11 04:56:53 [PROC] Process explorer.exe started for user tpatel PID 7289
+2026-08-11 04:58:07 [AUTH] Successful login for user klee from 10.0.0.43
+2026-08-11 05:00:25 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.18
+2026-08-11 05:01:22 [FILE] User klee accessed \fileserver\shared\report_514.docx
+2026-08-11 05:01:25 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.8
+2026-08-11 05:01:56 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.1
+2026-08-11 05:02:00 [AUTH] Successful login for user tpatel from 10.0.0.40
+2026-08-11 05:02:15 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.17
+2026-08-11 05:02:44 [PROC] Process explorer.exe started for user tpatel PID 3133
+2026-08-11 05:03:17 [FILE] User asingh accessed \fileserver\shared\report_297.docx
+2026-08-11 05:04:32 [AUTH] Successful login for user rwilliams from 10.0.0.52
+2026-08-11 05:04:33 [FIREWALL] Connection allowed from 10.0.0.38 to 10.0.1.9:443
+2026-08-11 05:04:38 [AUTH] Successful login for user tpatel from 10.0.0.35
+2026-08-11 05:05:31 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.19
+2026-08-11 05:05:39 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.16
+2026-08-11 05:06:26 [PROC] Process explorer.exe started for user asingh PID 2484
+2026-08-11 05:07:14 [AUTH] Successful login for user klee from 10.0.0.42
+2026-08-11 05:10:42 [AUTH] Successful login for user jsmith from 10.0.0.43
+2026-08-11 05:10:43 [FILE] User rwilliams accessed \fileserver\shared\report_807.docx
+2026-08-11 05:11:14 [PROC] Process explorer.exe started for user klee PID 2485
+2026-08-11 05:11:23 [FIREWALL] Connection allowed from 10.0.0.28 to 10.0.1.7:443
+2026-08-11 05:11:53 [PROC] Process explorer.exe started for user mworkman PID 4365
+2026-08-11 05:12:01 [FIREWALL] Connection allowed from 10.0.0.26 to 10.0.1.1:443
+2026-08-11 05:12:03 [FIREWALL] Connection allowed from 10.0.0.36 to 10.0.1.14:443
+2026-08-11 05:12:10 [PROC] Process explorer.exe started for user asingh PID 8725
+2026-08-11 05:12:21 [FILE] User tpatel accessed \fileserver\shared\report_817.docx
+2026-08-11 05:12:32 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.2
+2026-08-11 05:12:48 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.17
+2026-08-11 05:12:57 [FILE] User asingh accessed \fileserver\shared\report_998.docx
+2026-08-11 05:13:21 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.5
+2026-08-11 05:13:35 [AUTH] Successful login for user tpatel from 10.0.0.40
+2026-08-11 05:13:51 [FIREWALL] Connection allowed from 10.0.0.22 to 10.0.1.14:443
+2026-08-11 05:15:08 [AUTH] Successful login for user jsmith from 10.0.0.28
+2026-08-11 05:15:33 [FIREWALL] Connection allowed from 10.0.0.46 to 10.0.1.11:443
+2026-08-11 05:16:03 [FIREWALL] Connection allowed from 10.0.0.46 to 10.0.1.17:443
+2026-08-11 05:16:58 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.4
+2026-08-11 05:17:05 [PROC] Process explorer.exe started for user asingh PID 4280
+2026-08-11 05:17:07 [FIREWALL] Connection allowed from 10.0.0.29 to 10.0.1.7:443
+2026-08-11 05:17:08 [AUTH] Successful login for user klee from 10.0.0.37
+2026-08-11 05:17:17 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.8
+2026-08-11 05:18:07 [PROC] Process explorer.exe started for user tpatel PID 1635
+2026-08-11 05:18:46 [FIREWALL] Connection allowed from 10.0.0.42 to 10.0.1.15:443
+2026-08-11 05:19:06 [PROC] Process explorer.exe started for user jsmith PID 6548
+2026-08-11 05:20:45 [FILE] User rwilliams accessed \fileserver\shared\report_486.docx
+2026-08-11 05:20:47 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.15
+2026-08-11 05:20:54 [PROC] Process explorer.exe started for user asingh PID 6872
+2026-08-11 05:20:55 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.4
+2026-08-11 05:21:35 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.13
+2026-08-11 05:23:07 [FILE] User tpatel accessed \fileserver\shared\report_872.docx
+2026-08-11 05:23:19 [FILE] User rwilliams accessed \fileserver\shared\report_905.docx
+2026-08-11 05:23:20 [FIREWALL] Connection allowed from 10.0.0.27 to 10.0.1.9:443
+2026-08-11 05:24:23 [FIREWALL] Connection allowed from 10.0.0.32 to 10.0.1.12:443
+2026-08-11 05:25:39 [FILE] User rwilliams accessed \fileserver\shared\report_849.docx
+2026-08-11 05:25:56 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.1
+2026-08-11 05:26:32 [AUTH] Successful login for user rwilliams from 10.0.0.24
+2026-08-11 05:28:53 [PROC] Process explorer.exe started for user tpatel PID 1064
+2026-08-11 05:29:11 [FIREWALL] Connection allowed from 10.0.0.56 to 10.0.1.16:443
+2026-08-11 05:31:02 [AUTH] Successful login for user jsmith from 10.0.0.34
+2026-08-11 05:31:27 [FIREWALL] Connection allowed from 10.0.0.43 to 10.0.1.12:443
+2026-08-11 05:31:58 [FIREWALL] Connection allowed from 10.0.0.27 to 10.0.1.9:443
+2026-08-11 05:32:24 [PROC] Process explorer.exe started for user klee PID 4803
+2026-08-11 05:32:31 [FILE] User asingh accessed \fileserver\shared\report_325.docx
+2026-08-11 05:34:06 [AUTH] Successful login for user mworkman from 10.0.0.58
+2026-08-11 05:34:51 [FILE] User jsmith accessed \fileserver\shared\report_166.docx
+2026-08-11 05:36:08 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.10
+2026-08-11 05:36:48 [FIREWALL] Connection allowed from 10.0.0.25 to 10.0.1.5:443
+2026-08-11 05:38:36 [FILE] User rwilliams accessed \fileserver\shared\report_734.docx
+2026-08-11 05:39:13 [FILE] User tpatel accessed \fileserver\shared\report_133.docx
+2026-08-11 05:39:44 [AUTH] Successful login for user rwilliams from 10.0.0.31
+2026-08-11 05:40:03 [FILE] User jsmith accessed \fileserver\shared\report_856.docx
+2026-08-11 05:41:54 [AUTH] Successful login for user tpatel from 10.0.0.51
+2026-08-11 05:44:16 [PROC] Process explorer.exe started for user jsmith PID 5932
+2026-08-11 05:46:33 [FILE] User rwilliams accessed \fileserver\shared\report_477.docx
+2026-08-11 05:46:43 [FILE] User asingh accessed \fileserver\shared\report_71.docx
+2026-08-11 05:46:50 [FILE] User mworkman accessed \fileserver\shared\report_501.docx
+2026-08-11 05:48:30 [AUTH] Successful login for user jsmith from 10.0.0.57
+2026-08-11 05:49:04 [FILE] User jsmith accessed \fileserver\shared\report_341.docx
+2026-08-11 05:49:24 [FILE] User klee accessed \fileserver\shared\report_493.docx
+2026-08-11 05:49:37 [PROC] Process explorer.exe started for user mworkman PID 3649
+2026-08-11 05:50:16 [PROC] Process explorer.exe started for user jsmith PID 8462
+2026-08-11 05:50:44 [AUTH] Successful login for user asingh from 10.0.0.22
+2026-08-11 05:50:55 [FILE] User tpatel accessed \fileserver\shared\report_882.docx
+2026-08-11 05:51:39 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.3
+2026-08-11 05:51:44 [PROC] Process explorer.exe started for user asingh PID 3041
+2026-08-11 05:52:00 [FILE] User jsmith accessed \fileserver\shared\report_31.docx
+2026-08-11 05:52:12 [PROC] Process explorer.exe started for user mworkman PID 6252
+2026-08-11 05:52:25 [PROC] Process explorer.exe started for user mworkman PID 1590
+2026-08-11 05:53:27 [FILE] User tpatel accessed \fileserver\shared\report_991.docx
+2026-08-11 05:53:45 [FIREWALL] Connection allowed from 10.0.0.35 to 10.0.1.4:443
+2026-08-11 05:55:02 [FILE] User klee accessed \fileserver\shared\report_757.docx
+2026-08-11 05:55:59 [FILE] User jsmith accessed \fileserver\shared\report_85.docx
+2026-08-11 05:56:39 [FIREWALL] Connection allowed from 10.0.0.38 to 10.0.1.7:443
+2026-08-11 05:57:28 [AUTH] Successful login for user asingh from 10.0.0.54
+2026-08-11 05:58:21 [PROC] Process explorer.exe started for user tpatel PID 8117
+2026-08-11 05:58:56 [PROC] Process explorer.exe started for user tpatel PID 1277
+2026-08-11 05:59:05 [PROC] Process explorer.exe started for user klee PID 6671
+2026-08-11 05:59:47 [FILE] User jsmith accessed \fileserver\shared\report_582.docx
+2026-08-11 05:59:59 [FILE] User asingh accessed \fileserver\shared\report_737.docx
+2026-08-11 06:03:37 [PROC] Process explorer.exe started for user jsmith PID 1410
+2026-08-11 06:04:40 [FILE] User tpatel accessed \fileserver\shared\report_578.docx
+2026-08-11 06:05:32 [PROC] Process explorer.exe started for user klee PID 7201
+2026-08-11 06:05:57 [AUTH] Successful login for user mworkman from 10.0.0.27
+2026-08-11 06:06:01 [FIREWALL] Connection allowed from 10.0.0.38 to 10.0.1.3:443
+2026-08-11 06:06:08 [FIREWALL] Connection allowed from 10.0.0.59 to 10.0.1.9:443
+2026-08-11 06:06:22 [FILE] User mworkman accessed \fileserver\shared\report_670.docx
+2026-08-11 06:08:21 [FIREWALL] Connection allowed from 10.0.0.27 to 10.0.1.16:443
+2026-08-11 06:08:55 [FIREWALL] Connection allowed from 10.0.0.47 to 10.0.1.16:443
+2026-08-11 06:09:11 [FIREWALL] Connection allowed from 10.0.0.58 to 10.0.1.4:443
+2026-08-11 06:11:42 [FILE] User jsmith accessed \fileserver\shared\report_867.docx
+2026-08-11 06:12:34 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.11
+2026-08-11 06:13:43 [FILE] User klee accessed \fileserver\shared\report_941.docx
+2026-08-11 06:17:35 [FIREWALL] Connection allowed from 10.0.0.48 to 10.0.1.16:443
+2026-08-11 06:17:41 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.1
+2026-08-11 06:18:14 [FILE] User mworkman accessed \fileserver\shared\report_726.docx
+2026-08-11 06:18:17 [PROC] Process explorer.exe started for user klee PID 3233
+2026-08-11 06:21:14 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.16
+2026-08-11 06:21:26 [PROC] Process explorer.exe started for user asingh PID 8064
+2026-08-11 06:22:45 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.2
+2026-08-11 06:26:19 [PROC] Process explorer.exe started for user asingh PID 7482
+2026-08-11 06:26:25 [FILE] User rwilliams accessed \fileserver\shared\report_688.docx
+2026-08-11 06:26:56 [PROC] Process explorer.exe started for user asingh PID 2337
+2026-08-11 06:27:06 [FIREWALL] Connection allowed from 10.0.0.22 to 10.0.1.15:443
+2026-08-11 06:27:16 [FILE] User rwilliams accessed \fileserver\shared\report_107.docx
+2026-08-11 06:27:49 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.15
+2026-08-11 06:28:38 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.8
+2026-08-11 06:28:55 [FIREWALL] Connection allowed from 10.0.0.33 to 10.0.1.10:443
+2026-08-11 06:29:38 [FILE] User jsmith accessed \fileserver\shared\report_624.docx
+2026-08-11 06:29:52 [FIREWALL] Connection allowed from 10.0.0.41 to 10.0.1.4:443
+2026-08-11 06:30:41 [FIREWALL] Connection allowed from 10.0.0.35 to 10.0.1.14:443
+2026-08-11 06:31:18 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.5
+2026-08-11 06:32:02 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.15
+2026-08-11 06:33:19 [FIREWALL] Connection allowed from 10.0.0.43 to 10.0.1.2:443
+2026-08-11 06:34:53 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.5
+2026-08-11 06:37:22 [FILE] User mworkman accessed \fileserver\shared\report_77.docx
+2026-08-11 06:37:30 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.14
+2026-08-11 06:37:42 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.15
+2026-08-11 06:37:44 [AUTH] Successful login for user rwilliams from 10.0.0.49
+2026-08-11 06:39:25 [FIREWALL] Connection allowed from 10.0.0.51 to 10.0.1.4:443
+2026-08-11 06:39:34 [PROC] Process explorer.exe started for user jsmith PID 2551
+2026-08-11 06:39:38 [AUTH] Successful login for user mworkman from 10.0.0.56
+2026-08-11 06:44:06 [AUTH] Successful login for user mworkman from 10.0.0.22
+2026-08-11 06:44:45 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.12
+2026-08-11 06:45:02 [PROC] Process explorer.exe started for user mworkman PID 7852
+2026-08-11 06:45:21 [FIREWALL] Connection allowed from 10.0.0.36 to 10.0.1.17:443
+2026-08-11 06:45:28 [AUTH] Successful login for user jsmith from 10.0.0.54
+2026-08-11 06:45:44 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.8
+2026-08-11 06:46:04 [FILE] User asingh accessed \fileserver\shared\report_846.docx
+2026-08-11 06:46:05 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.3
+2026-08-11 06:46:56 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.15
+2026-08-11 06:48:10 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.16
+2026-08-11 06:51:47 [PROC] Process explorer.exe started for user tpatel PID 2359
+2026-08-11 06:52:16 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.15
+2026-08-11 06:53:03 [FIREWALL] Connection allowed from 10.0.0.49 to 10.0.1.2:443
+2026-08-11 06:53:15 [PROC] Process explorer.exe started for user klee PID 1982
+2026-08-11 06:53:54 [FILE] User mworkman accessed \fileserver\shared\report_992.docx
+2026-08-11 06:54:34 [FILE] User mworkman accessed \fileserver\shared\report_55.docx
+2026-08-11 06:55:03 [FILE] User klee accessed \fileserver\shared\report_561.docx
+2026-08-11 06:56:34 [PROC] Process explorer.exe started for user rwilliams PID 8271
+2026-08-11 06:58:05 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.16
+2026-08-11 06:59:34 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.8
+2026-08-11 07:00:00 [AUTH] Successful login for user jsmith from 10.0.0.56
+2026-08-11 07:00:02 [PROC] Process explorer.exe started for user tpatel PID 4042
+2026-08-11 07:00:16 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.9
+2026-08-11 07:01:39 [AUTH] Successful login for user klee from 10.0.0.35
+2026-08-11 07:01:42 [FIREWALL] Connection allowed from 10.0.0.41 to 10.0.1.9:443
+2026-08-11 07:03:42 [PROC] Process explorer.exe started for user mworkman PID 1820
+2026-08-11 07:03:42 [AUTH] Successful login for user asingh from 10.0.0.39
+2026-08-11 07:03:47 [FIREWALL] Connection allowed from 10.0.0.29 to 10.0.1.13:443
+2026-08-11 07:04:17 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.3
+2026-08-11 07:06:25 [AUTH] Successful login for user rwilliams from 10.0.0.49
+2026-08-11 07:08:12 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.19
+2026-08-11 07:08:47 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.5
+2026-08-11 07:08:51 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.15
+2026-08-11 07:10:06 [FIREWALL] Connection allowed from 10.0.0.35 to 10.0.1.9:443
+2026-08-11 07:11:33 [AUTH] Successful login for user rwilliams from 10.0.0.30
+2026-08-11 07:12:07 [PROC] Process explorer.exe started for user jsmith PID 8067
+2026-08-11 07:12:52 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.8
+2026-08-11 07:13:04 [AUTH] Successful login for user rwilliams from 10.0.0.22
+2026-08-11 07:13:10 [AUTH] Successful login for user jsmith from 10.0.0.47
+2026-08-11 07:13:37 [FILE] User jsmith accessed \fileserver\shared\report_507.docx
+2026-08-11 07:13:54 [FILE] User jsmith accessed \fileserver\shared\report_524.docx
+2026-08-11 07:14:04 [FILE] User jsmith accessed \fileserver\shared\report_236.docx
+2026-08-11 07:14:16 [AUTH] Successful login for user klee from 10.0.0.25
+2026-08-11 07:15:29 [FILE] User mworkman accessed \fileserver\shared\report_960.docx
+2026-08-11 07:17:00 [AUTH] Successful login for user asingh from 10.0.0.34
+2026-08-11 07:17:35 [FILE] User mworkman accessed \fileserver\shared\report_722.docx
+2026-08-11 07:18:02 [FIREWALL] Connection allowed from 10.0.0.28 to 10.0.1.9:443
+2026-08-11 07:20:24 [FILE] User asingh accessed \fileserver\shared\report_955.docx
+2026-08-11 07:21:17 [AUTH] Successful login for user rwilliams from 10.0.0.34
+2026-08-11 07:21:49 [FIREWALL] Connection allowed from 10.0.0.20 to 10.0.1.9:443
+2026-08-11 07:21:53 [AUTH] Successful login for user klee from 10.0.0.53
+2026-08-11 07:22:20 [FIREWALL] Connection allowed from 10.0.0.25 to 10.0.1.11:443
+2026-08-11 07:23:42 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.2
+2026-08-11 07:24:05 [PROC] Process explorer.exe started for user tpatel PID 5733
+2026-08-11 07:24:24 [FIREWALL] Connection allowed from 10.0.0.21 to 10.0.1.7:443
+2026-08-11 07:25:31 [FILE] User tpatel accessed \fileserver\shared\report_669.docx
+2026-08-11 07:27:11 [PROC] Process explorer.exe started for user mworkman PID 5722
+2026-08-11 07:29:18 [FILE] User asingh accessed \fileserver\shared\report_833.docx
+2026-08-11 07:30:25 [FILE] User klee accessed \fileserver\shared\report_914.docx
+2026-08-11 07:30:31 [AUTH] Successful login for user jsmith from 10.0.0.23
+2026-08-11 07:30:39 [AUTH] Successful login for user asingh from 10.0.0.46
+2026-08-11 07:30:47 [FILE] User tpatel accessed \fileserver\shared\report_410.docx
+2026-08-11 07:32:14 [PROC] Process explorer.exe started for user tpatel PID 2074
+2026-08-11 07:34:18 [FIREWALL] Connection allowed from 10.0.0.56 to 10.0.1.16:443
+2026-08-11 07:36:34 [FIREWALL] Connection allowed from 10.0.0.55 to 10.0.1.9:443
+2026-08-11 07:38:31 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.3
+2026-08-11 07:39:05 [AUTH] Successful login for user mworkman from 10.0.0.43
+2026-08-11 07:40:43 [FILE] User mworkman accessed \fileserver\shared\report_101.docx
+2026-08-11 07:40:51 [PROC] Process explorer.exe started for user jsmith PID 4929
+2026-08-11 07:41:19 [PROC] Process explorer.exe started for user jsmith PID 1937
+2026-08-11 07:42:28 [FIREWALL] Connection allowed from 10.0.0.56 to 10.0.1.12:443
+2026-08-11 07:42:42 [FILE] User mworkman accessed \fileserver\shared\report_577.docx
+2026-08-11 07:43:20 [AUTH] Successful login for user mworkman from 10.0.0.22
+2026-08-11 07:44:38 [FIREWALL] Connection allowed from 10.0.0.35 to 10.0.1.18:443
+2026-08-11 07:45:13 [FIREWALL] Connection allowed from 10.0.0.38 to 10.0.1.16:443
+2026-08-11 07:46:17 [FIREWALL] Connection allowed from 10.0.0.21 to 10.0.1.18:443
+2026-08-11 07:46:40 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.7
+2026-08-11 07:47:35 [PROC] Process explorer.exe started for user klee PID 8354
+2026-08-11 07:47:41 [PROC] Process explorer.exe started for user asingh PID 7425
+2026-08-11 07:49:05 [FILE] User mworkman accessed \fileserver\shared\report_812.docx
+2026-08-11 07:50:14 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.5
+2026-08-11 07:50:30 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.4
+2026-08-11 07:53:27 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.19
+2026-08-11 07:53:49 [FILE] User tpatel accessed \fileserver\shared\report_114.docx
+2026-08-11 07:54:14 [FILE] User tpatel accessed \fileserver\shared\report_937.docx
+2026-08-11 07:54:28 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.9
+2026-08-11 07:54:29 [FILE] User rwilliams accessed \fileserver\shared\report_734.docx
+2026-08-11 07:54:46 [FILE] User klee accessed \fileserver\shared\report_553.docx
+2026-08-11 07:54:49 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.16
+2026-08-11 07:55:10 [FIREWALL] Connection allowed from 10.0.0.21 to 10.0.1.6:443
+2026-08-11 07:56:16 [FIREWALL] Connection allowed from 10.0.0.55 to 10.0.1.8:443
+2026-08-11 07:56:33 [FILE] User mworkman accessed \fileserver\shared\report_630.docx
+2026-08-11 07:57:03 [PROC] Process explorer.exe started for user asingh PID 6908
+2026-08-11 07:57:25 [FILE] User rwilliams accessed \fileserver\shared\report_754.docx
+2026-08-11 07:57:41 [PROC] Process explorer.exe started for user rwilliams PID 6591
+2026-08-11 07:57:59 [PROC] Process explorer.exe started for user mworkman PID 4422
+2026-08-11 07:58:56 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.16
+2026-08-11 07:59:33 [FILE] User klee accessed \fileserver\shared\report_763.docx
+2026-08-11 08:00:43 [PROC] Process explorer.exe started for user tpatel PID 2168
+2026-08-11 08:00:47 [AUTH] Successful login for user rwilliams from 10.0.0.31
+2026-08-11 08:02:06 [PROC] Process explorer.exe started for user asingh PID 4574
+2026-08-11 08:03:19 [PROC] Process explorer.exe started for user asingh PID 6879
+2026-08-11 08:03:51 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.19
+2026-08-11 08:05:36 [PROC] Process explorer.exe started for user jsmith PID 1374
+2026-08-11 08:06:04 [FILE] User mworkman accessed \fileserver\shared\report_750.docx
+2026-08-11 08:06:08 [AUTH] Successful login for user mworkman from 10.0.0.47
+2026-08-11 08:08:07 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.6
+2026-08-11 08:08:40 [FILE] User rwilliams accessed \fileserver\shared\report_515.docx
+2026-08-11 08:09:13 [FILE] User jsmith accessed \fileserver\shared\report_100.docx
+2026-08-11 08:10:03 [FILE] User mworkman accessed \fileserver\shared\report_55.docx
+2026-08-11 08:11:01 [FILE] User rwilliams accessed \fileserver\shared\report_918.docx
+2026-08-11 08:11:37 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.3
+2026-08-11 08:12:02 [AUTH] Successful login for user rwilliams from 10.0.0.25
+2026-08-11 08:12:07 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.1
+2026-08-11 08:12:11 [PROC] Process explorer.exe started for user mworkman PID 8792
+2026-08-11 08:12:21 [FIREWALL] Connection allowed from 10.0.0.56 to 10.0.1.2:443
+2026-08-11 08:12:59 [FIREWALL] Connection allowed from 10.0.0.21 to 10.0.1.7:443
+2026-08-11 08:13:37 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.5
+2026-08-11 08:13:37 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.8
+2026-08-11 08:13:42 [FILE] User mworkman accessed \fileserver\shared\report_135.docx
+2026-08-11 08:14:04 [FIREWALL] Connection allowed from 10.0.0.57 to 10.0.1.4:443
+2026-08-11 08:14:07 [FIREWALL] Connection allowed from 10.0.0.27 to 10.0.1.18:443
+2026-08-11 08:14:09 [FILE] User asingh accessed \fileserver\shared\report_748.docx
+2026-08-11 08:14:30 [FILE] User klee accessed \fileserver\shared\report_362.docx
+2026-08-11 08:15:07 [AUTH] Successful login for user tpatel from 10.0.0.31
+2026-08-11 08:15:17 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.12
+2026-08-11 08:16:41 [FILE] User mworkman accessed \fileserver\shared\report_784.docx
+2026-08-11 08:19:47 [FILE] User mworkman accessed \fileserver\shared\report_876.docx
+2026-08-11 08:22:01 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.7
+2026-08-11 08:22:26 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.15
+2026-08-11 08:22:55 [AUTH] Successful login for user asingh from 10.0.0.27
+2026-08-11 08:26:19 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.9
+2026-08-11 08:26:24 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.14
+2026-08-11 08:31:31 [FIREWALL] Connection allowed from 10.0.0.28 to 10.0.1.1:443
+2026-08-11 08:31:37 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.10
+2026-08-11 08:35:07 [FIREWALL] Connection allowed from 10.0.0.22 to 10.0.1.18:443
+2026-08-11 08:35:55 [AUTH] Successful login for user tpatel from 10.0.0.27
+2026-08-11 08:35:59 [PROC] Process explorer.exe started for user rwilliams PID 2248
+2026-08-11 08:36:23 [FILE] User jsmith accessed \fileserver\shared\report_728.docx
+2026-08-11 08:37:25 [PROC] Process explorer.exe started for user tpatel PID 2798
+2026-08-11 08:38:51 [FILE] User tpatel accessed \fileserver\shared\report_917.docx
+2026-08-11 08:39:53 [FILE] User rwilliams accessed \fileserver\shared\report_915.docx
+2026-08-11 08:40:43 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.12
+2026-08-11 08:41:04 [FILE] User jsmith accessed \fileserver\shared\report_526.docx
+2026-08-11 08:41:05 [FIREWALL] Connection allowed from 10.0.0.58 to 10.0.1.10:443
+2026-08-11 08:41:05 [FIREWALL] Connection allowed from 10.0.0.21 to 10.0.1.19:443
+2026-08-11 08:41:13 [PROC] Process explorer.exe started for user asingh PID 5079
+2026-08-11 08:41:20 [AUTH] Successful login for user tpatel from 10.0.0.53
+2026-08-11 08:42:00 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.6
+2026-08-11 08:42:09 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.15
+2026-08-11 08:42:30 [AUTH] Successful login for user tpatel from 10.0.0.28
+2026-08-11 08:43:35 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.2
+2026-08-11 08:44:08 [FILE] User jsmith accessed \fileserver\shared\report_814.docx
+2026-08-11 08:44:39 [PROC] Process explorer.exe started for user rwilliams PID 6082
+2026-08-11 08:45:36 [AUTH] Successful login for user asingh from 10.0.0.49
+2026-08-11 08:48:15 [FILE] User rwilliams accessed \fileserver\shared\report_282.docx
+2026-08-11 08:48:45 [AUTH] Successful login for user rwilliams from 10.0.0.26
+2026-08-11 08:48:50 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.13
+2026-08-11 08:49:05 [FIREWALL] Connection allowed from 10.0.0.46 to 10.0.1.6:443
+2026-08-11 08:49:41 [FILE] User jsmith accessed \fileserver\shared\report_162.docx
+2026-08-11 08:50:06 [AUTH] Successful login for user jsmith from 10.0.0.44
+2026-08-11 08:51:03 [FILE] User asingh accessed \fileserver\shared\report_972.docx
+2026-08-11 08:51:19 [AUTH] Successful login for user rwilliams from 10.0.0.45
+2026-08-11 08:51:55 [AUTH] Successful login for user mworkman from 10.0.0.47
+2026-08-11 08:52:18 [FIREWALL] Connection allowed from 10.0.0.58 to 10.0.1.8:443
+2026-08-11 08:54:07 [AUTH] Successful login for user mworkman from 10.0.0.39
+2026-08-11 08:54:34 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.9
+2026-08-11 08:54:48 [AUTH] Successful login for user jsmith from 10.0.0.27
+2026-08-11 08:54:52 [FIREWALL] Connection allowed from 10.0.0.32 to 10.0.1.9:443
+2026-08-11 08:55:30 [AUTH] Successful login for user jsmith from 10.0.0.45
+2026-08-11 08:57:33 [PROC] Process explorer.exe started for user mworkman PID 6274
+2026-08-11 09:02:14 [FILE] User tpatel accessed \fileserver\shared\report_73.docx
+2026-08-11 09:02:33 [FILE] User tpatel accessed \fileserver\shared\report_144.docx
+2026-08-11 09:04:24 [PROC] Process explorer.exe started for user asingh PID 7760
+2026-08-11 09:04:41 [AUTH] Successful login for user rwilliams from 10.0.0.58
+2026-08-11 09:05:15 [AUTH] Successful login for user rwilliams from 10.0.0.46
+2026-08-11 09:05:25 [AUTH] Successful login for user rwilliams from 10.0.0.56
+2026-08-11 09:05:59 [FIREWALL] Connection allowed from 10.0.0.33 to 10.0.1.6:443
+2026-08-11 09:08:24 [FIREWALL] Connection allowed from 10.0.0.29 to 10.0.1.3:443
+2026-08-11 09:10:10 [FILE] User tpatel accessed \fileserver\shared\report_971.docx
+2026-08-11 09:10:51 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.5
+2026-08-11 09:11:53 [FIREWALL] Connection allowed from 10.0.0.52 to 10.0.1.9:443
+2026-08-11 09:12:02 [FIREWALL] Connection allowed from 10.0.0.40 to 10.0.1.10:443
+2026-08-11 09:12:09 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.8
+2026-08-11 09:12:24 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.13
+2026-08-11 09:12:35 [FIREWALL] Connection allowed from 10.0.0.22 to 10.0.1.8:443
+2026-08-11 09:13:11 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.18
+2026-08-11 09:13:27 [PROC] Process explorer.exe started for user rwilliams PID 4619
+2026-08-11 09:14:51 [FIREWALL] Connection allowed from 10.0.0.21 to 10.0.1.2:443
+2026-08-11 09:14:52 [PROC] Process explorer.exe started for user klee PID 2940
+2026-08-11 09:15:19 [AUTH] Successful login for user jsmith from 10.0.0.35
+2026-08-11 09:16:23 [PROC] Process explorer.exe started for user asingh PID 7576
+2026-08-11 09:16:54 [FILE] User asingh accessed \fileserver\shared\report_464.docx
+2026-08-11 09:17:31 [FIREWALL] Connection allowed from 10.0.0.30 to 10.0.1.14:443
+2026-08-11 09:18:36 [FILE] User rwilliams accessed \fileserver\shared\report_986.docx
+2026-08-11 09:20:08 [FIREWALL] Connection allowed from 10.0.0.47 to 10.0.1.16:443
+2026-08-11 09:20:23 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.18
+2026-08-11 09:21:07 [PROC] Process explorer.exe started for user klee PID 3049
+2026-08-11 09:23:34 [FIREWALL] Connection allowed from 10.0.0.20 to 10.0.1.8:443
+2026-08-11 09:23:49 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.6
+2026-08-11 09:24:35 [PROC] Process explorer.exe started for user asingh PID 2119
+2026-08-11 09:26:24 [AUTH] Successful login for user tpatel from 10.0.0.55
+2026-08-11 09:26:25 [PROC] Process explorer.exe started for user klee PID 1064
+2026-08-11 09:28:25 [FILE] User klee accessed \fileserver\shared\report_433.docx
+2026-08-11 09:28:38 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.12
+2026-08-11 09:29:09 [PROC] Process explorer.exe started for user asingh PID 7781
+2026-08-11 09:29:10 [PROC] Process explorer.exe started for user mworkman PID 2493
+2026-08-11 09:29:31 [PROC] Process explorer.exe started for user asingh PID 2654
+2026-08-11 09:29:46 [PROC] Process explorer.exe started for user rwilliams PID 4552
+2026-08-11 09:30:17 [PROC] Process explorer.exe started for user jsmith PID 3066
+2026-08-11 09:30:30 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.2
+2026-08-11 09:31:01 [AUTH] Successful login for user asingh from 10.0.0.52
+2026-08-11 09:31:35 [AUTH] Successful login for user mworkman from 10.0.0.58
+2026-08-11 09:32:10 [AUTH] Successful login for user klee from 10.0.0.43
+2026-08-11 09:32:19 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.10
+2026-08-11 09:33:40 [AUTH] Successful login for user rwilliams from 10.0.0.32
+2026-08-11 09:34:44 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.6
+2026-08-11 09:35:31 [AUTH] Successful login for user klee from 10.0.0.57
+2026-08-11 09:36:28 [FILE] User asingh accessed \fileserver\shared\report_781.docx
+2026-08-11 09:36:39 [AUTH] Successful login for user rwilliams from 10.0.0.26
+2026-08-11 09:36:46 [FILE] User rwilliams accessed \fileserver\shared\report_214.docx
+2026-08-11 09:38:12 [FIREWALL] Connection allowed from 10.0.0.56 to 10.0.1.17:443
+2026-08-11 09:39:04 [FIREWALL] Connection allowed from 10.0.0.51 to 10.0.1.15:443
+2026-08-11 09:39:57 [FILE] User rwilliams accessed \fileserver\shared\report_134.docx
+2026-08-11 09:39:58 [AUTH] Successful login for user tpatel from 10.0.0.53
+2026-08-11 09:40:45 [PROC] Process explorer.exe started for user asingh PID 1675
+2026-08-11 09:41:47 [PROC] Process explorer.exe started for user klee PID 7991
+2026-08-11 09:41:48 [FIREWALL] Connection allowed from 10.0.0.39 to 10.0.1.16:443
+2026-08-11 09:42:47 [FIREWALL] Connection allowed from 10.0.0.20 to 10.0.1.5:443
+2026-08-11 09:43:33 [PROC] Process explorer.exe started for user asingh PID 1060
+2026-08-11 09:43:56 [FILE] User jsmith accessed \fileserver\shared\report_145.docx
+2026-08-11 09:46:01 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.7
+2026-08-11 09:46:30 [FIREWALL] Connection allowed from 10.0.0.29 to 10.0.1.2:443
+2026-08-11 09:46:45 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.16
+2026-08-11 09:48:36 [FIREWALL] Connection allowed from 10.0.0.48 to 10.0.1.11:443
+2026-08-11 09:49:51 [FIREWALL] Connection allowed from 10.0.0.42 to 10.0.1.8:443
+2026-08-11 09:50:43 [FILE] User rwilliams accessed \fileserver\shared\report_784.docx
+2026-08-11 09:51:47 [PROC] Process explorer.exe started for user jsmith PID 1675
+2026-08-11 09:54:10 [PROC] Process explorer.exe started for user mworkman PID 4856
+2026-08-11 09:55:42 [FIREWALL] Connection allowed from 10.0.0.20 to 10.0.1.3:443
+2026-08-11 09:56:09 [PROC] Process explorer.exe started for user mworkman PID 3254
+2026-08-11 09:57:19 [FIREWALL] Connection allowed from 10.0.0.31 to 10.0.1.12:443
+2026-08-11 09:58:00 [FIREWALL] Connection allowed from 10.0.0.27 to 10.0.1.16:443
+2026-08-11 09:58:21 [FILE] User jsmith accessed \fileserver\shared\report_580.docx
+2026-08-11 10:00:24 [FIREWALL] Connection allowed from 10.0.0.34 to 10.0.1.3:443
+2026-08-11 10:01:18 [AUTH] Successful login for user asingh from 10.0.0.43
+2026-08-11 10:01:24 [AUTH] Successful login for user rwilliams from 10.0.0.20
+2026-08-11 10:02:41 [PROC] Process explorer.exe started for user asingh PID 2059
+2026-08-11 10:03:01 [PROC] Process explorer.exe started for user jsmith PID 3857
+2026-08-11 10:05:37 [FIREWALL] Connection allowed from 10.0.0.39 to 10.0.1.13:443
+2026-08-11 10:06:35 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.5
+2026-08-11 10:07:00 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.6
+2026-08-11 10:08:24 [PROC] Process explorer.exe started for user asingh PID 6594
+2026-08-11 10:09:49 [AUTH] Successful login for user rwilliams from 10.0.0.28
+2026-08-11 10:10:01 [PROC] Process explorer.exe started for user klee PID 6388
+2026-08-11 10:11:25 [FILE] User klee accessed \fileserver\shared\report_801.docx
+2026-08-11 10:11:31 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.9
+2026-08-11 10:11:45 [FILE] User jsmith accessed \fileserver\shared\report_132.docx
+2026-08-11 10:14:20 [FILE] User tpatel accessed \fileserver\shared\report_620.docx
+2026-08-11 10:14:56 [FILE] User rwilliams accessed \fileserver\shared\report_592.docx
+2026-08-11 10:17:24 [AUTH] Successful login for user mworkman from 10.0.0.48
+2026-08-11 10:17:46 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.7
+2026-08-11 10:19:37 [PROC] Process explorer.exe started for user jsmith PID 6675
+2026-08-11 10:21:48 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.9
+2026-08-11 10:22:13 [PROC] Process explorer.exe started for user klee PID 5087
+2026-08-11 10:22:38 [AUTH] Successful login for user klee from 10.0.0.30
+2026-08-11 10:22:57 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.3
+2026-08-11 10:24:38 [PROC] Process explorer.exe started for user klee PID 5959
+2026-08-11 10:24:58 [AUTH] Successful login for user asingh from 10.0.0.36
+2026-08-11 10:27:54 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.17
+2026-08-11 10:28:50 [FIREWALL] Connection allowed from 10.0.0.38 to 10.0.1.12:443
+2026-08-11 10:29:50 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.17
+2026-08-11 10:29:56 [AUTH] Successful login for user jsmith from 10.0.0.53
+2026-08-11 10:34:49 [AUTH] Successful login for user asingh from 10.0.0.49
+2026-08-11 10:35:00 [AUTH] Successful login for user jsmith from 10.0.0.20
+2026-08-11 10:35:20 [FILE] User asingh accessed \fileserver\shared\report_624.docx
+2026-08-11 10:36:28 [FILE] User jsmith accessed \fileserver\shared\report_692.docx
+2026-08-11 10:38:27 [FILE] User klee accessed \fileserver\shared\report_837.docx
+2026-08-11 10:38:49 [PROC] Process explorer.exe started for user rwilliams PID 1242
+2026-08-11 10:39:19 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.4
+2026-08-11 10:39:42 [FILE] User tpatel accessed \fileserver\shared\report_580.docx
+2026-08-11 10:40:03 [AUTH] Successful login for user asingh from 10.0.0.37
+2026-08-11 10:40:05 [FILE] User klee accessed \fileserver\shared\report_890.docx
+2026-08-11 10:40:45 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.3
+2026-08-11 10:41:04 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.12
+2026-08-11 10:41:43 [AUTH] Successful login for user asingh from 10.0.0.53
+2026-08-11 10:42:10 [PROC] Process explorer.exe started for user rwilliams PID 8393
+2026-08-11 10:42:30 [PROC] Process explorer.exe started for user asingh PID 4765
+2026-08-11 10:43:07 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.1
+2026-08-11 10:43:38 [AUTH] Successful login for user tpatel from 10.0.0.41
+2026-08-11 10:44:00 [AUTH] Successful login for user tpatel from 10.0.0.33
+2026-08-11 10:44:15 [AUTH] Successful login for user tpatel from 10.0.0.50
+2026-08-11 10:46:04 [PROC] Process explorer.exe started for user asingh PID 6596
+2026-08-11 10:47:59 [AUTH] Successful login for user rwilliams from 10.0.0.43
+2026-08-11 10:48:53 [PROC] Process explorer.exe started for user mworkman PID 6133
+2026-08-11 10:49:18 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.12
+2026-08-11 10:51:18 [FIREWALL] Connection allowed from 10.0.0.46 to 10.0.1.12:443
+2026-08-11 10:51:47 [FILE] User rwilliams accessed \fileserver\shared\report_971.docx
+2026-08-11 10:52:12 [PROC] Process explorer.exe started for user jsmith PID 2079
+2026-08-11 10:58:46 [AUTH] Successful login for user jsmith from 10.0.0.44
+2026-08-11 11:00:13 [AUTH] Successful login for user klee from 10.0.0.55
+2026-08-11 11:00:27 [AUTH] Successful login for user klee from 10.0.0.58
+2026-08-11 11:01:21 [FILE] User klee accessed \fileserver\shared\report_879.docx
+2026-08-11 11:02:01 [FIREWALL] Connection allowed from 10.0.0.38 to 10.0.1.6:443
+2026-08-11 11:02:14 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.9
+2026-08-11 11:02:34 [FIREWALL] Connection allowed from 10.0.0.32 to 10.0.1.11:443
+2026-08-11 11:03:31 [PROC] Process explorer.exe started for user mworkman PID 3089
+2026-08-11 11:04:55 [AUTH] Successful login for user asingh from 10.0.0.50
+2026-08-11 11:05:20 [AUTH] Successful login for user rwilliams from 10.0.0.32
+2026-08-11 11:05:34 [FIREWALL] Connection allowed from 10.0.0.37 to 10.0.1.13:443
+2026-08-11 11:05:50 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.18
+2026-08-11 11:06:05 [AUTH] Successful login for user klee from 10.0.0.48
+2026-08-11 11:06:43 [FILE] User rwilliams accessed \fileserver\shared\report_408.docx
+2026-08-11 11:07:48 [FILE] User rwilliams accessed \fileserver\shared\report_866.docx
+2026-08-11 11:08:57 [PROC] Process explorer.exe started for user jsmith PID 3132
+2026-08-11 11:09:08 [FILE] User klee accessed \fileserver\shared\report_239.docx
+2026-08-11 11:10:53 [FILE] User tpatel accessed \fileserver\shared\report_29.docx
+2026-08-11 11:11:41 [PROC] Process explorer.exe started for user tpatel PID 6810
+2026-08-11 11:12:21 [FIREWALL] Connection allowed from 10.0.0.45 to 10.0.1.4:443
+2026-08-11 11:14:01 [FILE] User jsmith accessed \fileserver\shared\report_141.docx
+2026-08-11 11:14:02 [FIREWALL] Connection allowed from 10.0.0.43 to 10.0.1.13:443
+2026-08-11 11:14:11 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.19
+2026-08-11 11:14:37 [AUTH] Successful login for user asingh from 10.0.0.52
+2026-08-11 11:14:47 [FILE] User asingh accessed \fileserver\shared\report_267.docx
+2026-08-11 11:15:41 [AUTH] Successful login for user mworkman from 10.0.0.25
+2026-08-11 11:16:37 [AUTH] Successful login for user rwilliams from 10.0.0.21
+2026-08-11 11:17:22 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.2
+2026-08-11 11:19:23 [FILE] User klee accessed \fileserver\shared\report_811.docx
+2026-08-11 11:19:44 [FILE] User mworkman accessed \fileserver\shared\report_782.docx
+2026-08-11 11:19:48 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.18
+2026-08-11 11:22:46 [FIREWALL] Connection allowed from 10.0.0.26 to 10.0.1.5:443
+2026-08-11 11:24:27 [FIREWALL] Connection allowed from 10.0.0.34 to 10.0.1.14:443
+2026-08-11 11:24:58 [FIREWALL] Connection allowed from 10.0.0.22 to 10.0.1.18:443
+2026-08-11 11:25:32 [AUTH] Successful login for user tpatel from 10.0.0.39
+2026-08-11 11:26:16 [FIREWALL] Connection allowed from 10.0.0.20 to 10.0.1.1:443
+2026-08-11 11:26:22 [AUTH] Successful login for user tpatel from 10.0.0.35
+2026-08-11 11:26:28 [AUTH] Successful login for user klee from 10.0.0.32
+2026-08-11 11:27:04 [FILE] User rwilliams accessed \fileserver\shared\report_738.docx
+2026-08-11 11:27:56 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.13
+2026-08-11 11:27:59 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.13
+2026-08-11 11:28:28 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.10
+2026-08-11 11:29:06 [FIREWALL] Connection allowed from 10.0.0.47 to 10.0.1.14:443
+2026-08-11 11:30:34 [FIREWALL] Connection allowed from 10.0.0.48 to 10.0.1.10:443
+2026-08-11 11:31:50 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.17
+2026-08-11 11:34:17 [PROC] Process explorer.exe started for user rwilliams PID 6767
+2026-08-11 11:34:52 [AUTH] Successful login for user tpatel from 10.0.0.48
+2026-08-11 11:35:05 [PROC] Process explorer.exe started for user rwilliams PID 1101
+2026-08-11 11:37:43 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.16
+2026-08-11 11:38:36 [FIREWALL] Connection allowed from 10.0.0.26 to 10.0.1.13:443
+2026-08-11 11:40:42 [FIREWALL] Connection allowed from 10.0.0.53 to 10.0.1.14:443
+2026-08-11 11:40:53 [AUTH] Successful login for user klee from 10.0.0.20
+2026-08-11 11:42:57 [FIREWALL] Connection allowed from 10.0.0.45 to 10.0.1.10:443
+2026-08-11 11:43:46 [FIREWALL] Connection allowed from 10.0.0.59 to 10.0.1.10:443
+2026-08-11 11:44:09 [PROC] Process explorer.exe started for user asingh PID 5708
+2026-08-11 11:44:37 [FIREWALL] Connection allowed from 10.0.0.26 to 10.0.1.6:443
+2026-08-11 11:45:12 [FILE] User klee accessed \fileserver\shared\report_407.docx
+2026-08-11 11:48:10 [PROC] Process explorer.exe started for user rwilliams PID 5002
+2026-08-11 11:49:02 [PROC] Process explorer.exe started for user klee PID 5950
+2026-08-11 11:50:21 [PROC] Process explorer.exe started for user klee PID 5935
+2026-08-11 11:50:25 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.16
+2026-08-11 11:50:45 [AUTH] Successful login for user rwilliams from 10.0.0.37
+2026-08-11 11:51:43 [FIREWALL] Connection allowed from 10.0.0.58 to 10.0.1.19:443
+2026-08-11 11:52:03 [PROC] Process explorer.exe started for user mworkman PID 6812
+2026-08-11 11:52:21 [FIREWALL] Connection allowed from 10.0.0.45 to 10.0.1.13:443
+2026-08-11 11:54:22 [PROC] Process explorer.exe started for user klee PID 5392
+2026-08-11 11:55:21 [AUTH] Successful login for user jsmith from 10.0.0.49
+2026-08-11 11:56:16 [FILE] User tpatel accessed \fileserver\shared\report_848.docx
+2026-08-11 11:56:52 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.8
+2026-08-11 11:57:17 [PROC] Process explorer.exe started for user tpatel PID 1446
+2026-08-11 11:57:23 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.14
+2026-08-11 11:57:59 [AUTH] Successful login for user klee from 10.0.0.33
+2026-08-11 11:58:15 [FIREWALL] Connection allowed from 10.0.0.21 to 10.0.1.14:443
+2026-08-11 11:59:53 [FIREWALL] Connection allowed from 10.0.0.35 to 10.0.1.19:443
+2026-08-11 12:00:02 [PROC] Process explorer.exe started for user mworkman PID 8307
+2026-08-11 12:00:24 [FILE] User asingh accessed \fileserver\shared\report_714.docx
+2026-08-11 12:01:07 [AUTH] Successful login for user tpatel from 10.0.0.22
+2026-08-11 12:01:14 [FIREWALL] Connection allowed from 10.0.0.28 to 10.0.1.7:443
+2026-08-11 12:03:10 [PROC] Process explorer.exe started for user mworkman PID 6551
+2026-08-11 12:04:34 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.4
+2026-08-11 12:05:01 [FIREWALL] Connection allowed from 10.0.0.44 to 10.0.1.13:443
+2026-08-11 12:05:23 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.8
+2026-08-11 12:06:20 [FIREWALL] Connection allowed from 10.0.0.40 to 10.0.1.9:443
+2026-08-11 12:08:27 [FIREWALL] Connection allowed from 10.0.0.33 to 10.0.1.10:443
+2026-08-11 12:09:08 [FILE] User jsmith accessed \fileserver\shared\report_764.docx
+2026-08-11 12:09:39 [PROC] Process explorer.exe started for user tpatel PID 4242
+2026-08-11 12:10:30 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.14
+2026-08-11 12:10:36 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.13
+2026-08-11 12:12:40 [FILE] User klee accessed \fileserver\shared\report_114.docx
+2026-08-11 12:14:48 [PROC] Process explorer.exe started for user mworkman PID 7547
+2026-08-11 12:14:57 [PROC] Process explorer.exe started for user tpatel PID 4806
+2026-08-11 12:15:07 [FIREWALL] Connection allowed from 10.0.0.21 to 10.0.1.8:443
+2026-08-11 12:15:16 [FIREWALL] Connection allowed from 10.0.0.25 to 10.0.1.15:443
+2026-08-11 12:17:04 [FIREWALL] Connection allowed from 10.0.0.40 to 10.0.1.7:443
+2026-08-11 12:17:28 [FIREWALL] Connection allowed from 10.0.0.28 to 10.0.1.19:443
+2026-08-11 12:21:18 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.14
+2026-08-11 12:21:27 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.13
+2026-08-11 12:21:47 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.2
+2026-08-11 12:22:42 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.7
+2026-08-11 12:23:11 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.15
+2026-08-11 12:24:24 [PROC] Process explorer.exe started for user asingh PID 6757
+2026-08-11 12:25:06 [PROC] Process explorer.exe started for user asingh PID 4714
+2026-08-11 12:25:45 [FIREWALL] Connection allowed from 10.0.0.57 to 10.0.1.8:443
+2026-08-11 12:26:46 [AUTH] Successful login for user klee from 10.0.0.47
+2026-08-11 12:27:11 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.6
+2026-08-11 12:27:34 [FIREWALL] Connection allowed from 10.0.0.31 to 10.0.1.16:443
+2026-08-11 12:28:33 [AUTH] Successful login for user jsmith from 10.0.0.29
+2026-08-11 12:28:55 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.18
+2026-08-11 12:29:37 [PROC] Process explorer.exe started for user tpatel PID 8446
+2026-08-11 12:29:50 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.4
+2026-08-11 12:30:17 [PROC] Process explorer.exe started for user rwilliams PID 7197
+2026-08-11 12:30:19 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.8
+2026-08-11 12:31:30 [FIREWALL] Connection allowed from 10.0.0.32 to 10.0.1.8:443
+2026-08-11 12:32:12 [FILE] User asingh accessed \fileserver\shared\report_720.docx
+2026-08-11 12:32:40 [FIREWALL] Connection allowed from 10.0.0.57 to 10.0.1.1:443
+2026-08-11 12:33:43 [PROC] Process explorer.exe started for user tpatel PID 2969
+2026-08-11 12:33:48 [AUTH] Successful login for user jsmith from 10.0.0.36
+2026-08-11 12:35:20 [FILE] User rwilliams accessed \fileserver\shared\report_806.docx
+2026-08-11 12:35:32 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.14
+2026-08-11 12:36:47 [FILE] User jsmith accessed \fileserver\shared\report_695.docx
+2026-08-11 12:37:07 [FILE] User klee accessed \fileserver\shared\report_834.docx
+2026-08-11 12:37:40 [AUTH] Successful login for user klee from 10.0.0.47
+2026-08-11 12:38:36 [AUTH] Successful login for user tpatel from 10.0.0.38
+2026-08-11 12:38:43 [FILE] User mworkman accessed \fileserver\shared\report_779.docx
+2026-08-11 12:42:06 [FIREWALL] Connection allowed from 10.0.0.50 to 10.0.1.11:443
+2026-08-11 12:43:19 [FILE] User mworkman accessed \fileserver\shared\report_534.docx
+2026-08-11 12:43:32 [FILE] User tpatel accessed \fileserver\shared\report_377.docx
+2026-08-11 12:43:45 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.5
+2026-08-11 12:44:07 [FIREWALL] Connection allowed from 10.0.0.55 to 10.0.1.9:443
+2026-08-11 12:44:37 [AUTH] Successful login for user tpatel from 10.0.0.30
+2026-08-11 12:45:37 [AUTH] Successful login for user rwilliams from 10.0.0.32
+2026-08-11 12:47:02 [PROC] Process explorer.exe started for user asingh PID 2555
+2026-08-11 12:47:23 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.19
+2026-08-11 12:48:47 [FIREWALL] Connection allowed from 10.0.0.25 to 10.0.1.17:443
+2026-08-11 12:49:10 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.2
+2026-08-11 12:50:21 [PROC] Process explorer.exe started for user rwilliams PID 4187
+2026-08-11 12:52:38 [FILE] User asingh accessed \fileserver\shared\report_128.docx
+2026-08-11 12:52:57 [AUTH] Successful login for user jsmith from 10.0.0.32
+2026-08-11 12:54:22 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.15
+2026-08-11 12:55:16 [PROC] Process explorer.exe started for user asingh PID 6644
+2026-08-11 12:57:14 [AUTH] Successful login for user asingh from 10.0.0.57
+2026-08-11 13:00:39 [FILE] User mworkman accessed \fileserver\shared\report_192.docx
+2026-08-11 13:01:55 [PROC] Process explorer.exe started for user klee PID 1745
+2026-08-11 13:02:12 [AUTH] Successful login for user jsmith from 10.0.0.52
+2026-08-11 13:02:59 [PROC] Process explorer.exe started for user jsmith PID 6394
+2026-08-11 13:03:25 [PROC] Process explorer.exe started for user klee PID 1668
+2026-08-11 13:05:31 [FIREWALL] Connection allowed from 10.0.0.48 to 10.0.1.10:443
+2026-08-11 13:05:58 [FIREWALL] Connection allowed from 10.0.0.42 to 10.0.1.1:443
+2026-08-11 13:06:50 [AUTH] Successful login for user tpatel from 10.0.0.55
+2026-08-11 13:09:15 [PROC] Process explorer.exe started for user asingh PID 2392
+2026-08-11 13:09:19 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.16
+2026-08-11 13:09:26 [FIREWALL] Connection allowed from 10.0.0.52 to 10.0.1.16:443
+2026-08-11 13:09:40 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.4
+2026-08-11 13:10:44 [FILE] User rwilliams accessed \fileserver\shared\report_250.docx
+2026-08-11 13:11:17 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.15
+2026-08-11 13:11:49 [FIREWALL] Connection allowed from 10.0.0.46 to 10.0.1.12:443
+2026-08-11 13:12:31 [AUTH] Successful login for user rwilliams from 10.0.0.33
+2026-08-11 13:13:39 [PROC] Process explorer.exe started for user klee PID 7166
+2026-08-11 13:15:29 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.5
+2026-08-11 13:16:12 [AUTH] Successful login for user tpatel from 10.0.0.20
+2026-08-11 13:18:54 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.16
+2026-08-11 13:20:55 [AUTH] Successful login for user tpatel from 10.0.0.33
+2026-08-11 13:21:45 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.1
+2026-08-11 13:22:33 [PROC] Process explorer.exe started for user jsmith PID 3353
+2026-08-11 13:23:06 [FIREWALL] Connection allowed from 10.0.0.57 to 10.0.1.9:443
+2026-08-11 13:23:40 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.14
+2026-08-11 13:26:19 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.5
+2026-08-11 13:28:29 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.16
+2026-08-11 13:28:56 [FIREWALL] Connection allowed from 10.0.0.41 to 10.0.1.15:443
+2026-08-11 13:30:34 [AUTH] Successful login for user rwilliams from 10.0.0.42
+2026-08-11 13:30:43 [FIREWALL] Connection allowed from 10.0.0.29 to 10.0.1.12:443
+2026-08-11 13:31:03 [FIREWALL] Connection allowed from 10.0.0.37 to 10.0.1.3:443
+2026-08-11 13:31:30 [FIREWALL] Connection allowed from 10.0.0.23 to 10.0.1.6:443
+2026-08-11 13:32:06 [FILE] User klee accessed \fileserver\shared\report_640.docx
+2026-08-11 13:33:21 [PROC] Process explorer.exe started for user mworkman PID 8316
+2026-08-11 13:34:28 [FILE] User jsmith accessed \fileserver\shared\report_343.docx
+2026-08-11 13:36:32 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.16
+2026-08-11 13:38:09 [PROC] Process explorer.exe started for user mworkman PID 3166
+2026-08-11 13:39:58 [FILE] User klee accessed \fileserver\shared\report_822.docx
+2026-08-11 13:41:06 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.9
+2026-08-11 13:41:20 [AUTH] Successful login for user jsmith from 10.0.0.53
+2026-08-11 13:42:06 [PROC] Process explorer.exe started for user klee PID 4431
+2026-08-11 13:43:31 [FIREWALL] Connection allowed from 10.0.0.39 to 10.0.1.8:443
+2026-08-11 13:43:32 [FIREWALL] Connection allowed from 10.0.0.51 to 10.0.1.17:443
+2026-08-11 13:43:53 [FIREWALL] Connection allowed from 10.0.0.26 to 10.0.1.12:443
+2026-08-11 13:44:08 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.13
+2026-08-11 13:44:31 [FILE] User tpatel accessed \fileserver\shared\report_38.docx
+2026-08-11 13:45:58 [FILE] User jsmith accessed \fileserver\shared\report_627.docx
+2026-08-11 13:46:17 [FIREWALL] Connection allowed from 10.0.0.40 to 10.0.1.5:443
+2026-08-11 13:47:15 [FIREWALL] Connection allowed from 10.0.0.22 to 10.0.1.12:443
+2026-08-11 13:47:35 [FILE] User klee accessed \fileserver\shared\report_314.docx
+2026-08-11 13:47:51 [FILE] User tpatel accessed \fileserver\shared\report_368.docx
+2026-08-11 13:48:35 [AUTH] Successful login for user klee from 10.0.0.24
+2026-08-11 13:48:37 [FIREWALL] Connection allowed from 10.0.0.23 to 10.0.1.13:443
+2026-08-11 13:49:49 [AUTH] Successful login for user mworkman from 10.0.0.50
+2026-08-11 13:51:00 [PROC] Process explorer.exe started for user jsmith PID 2190
+2026-08-11 13:51:18 [PROC] Process explorer.exe started for user mworkman PID 4060
+2026-08-11 13:51:23 [PROC] Process explorer.exe started for user mworkman PID 1761
+2026-08-11 13:52:46 [PROC] Process explorer.exe started for user klee PID 7805
+2026-08-11 13:54:06 [FIREWALL] Connection allowed from 10.0.0.57 to 10.0.1.13:443
+2026-08-11 13:56:24 [PROC] Process explorer.exe started for user mworkman PID 5510
+2026-08-11 13:56:53 [FIREWALL] Connection allowed from 10.0.0.45 to 10.0.1.16:443
+2026-08-11 13:58:03 [FILE] User tpatel accessed \fileserver\shared\report_256.docx
+2026-08-11 13:58:46 [FILE] User klee accessed \fileserver\shared\report_382.docx
+2026-08-11 13:59:34 [PROC] Process explorer.exe started for user klee PID 5654
+2026-08-11 14:00:16 [FIREWALL] Connection allowed from 10.0.0.24 to 10.0.1.12:443
+2026-08-11 14:00:46 [FILE] User rwilliams accessed \fileserver\shared\report_935.docx
+2026-08-11 14:01:02 [FILE] User jsmith accessed \fileserver\shared\report_416.docx
+2026-08-11 14:01:11 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.15
+2026-08-11 14:02:46 [FILE] User rwilliams accessed \fileserver\shared\report_655.docx
+2026-08-11 14:04:05 [PROC] Process explorer.exe started for user tpatel PID 2148
+2026-08-11 14:04:09 [FIREWALL] Connection allowed from 10.0.0.45 to 10.0.1.18:443
+2026-08-11 14:04:23 [PROC] Process explorer.exe started for user asingh PID 5251
+2026-08-11 14:04:44 [AUTH] Successful login for user mworkman from 10.0.0.48
+2026-08-11 14:04:45 [FILE] User mworkman accessed \fileserver\shared\report_328.docx
+2026-08-11 14:04:51 [AUTH] Successful login for user klee from 10.0.0.21
+2026-08-11 14:05:16 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.18
+2026-08-11 14:05:20 [FILE] User klee accessed \fileserver\shared\report_886.docx
+2026-08-11 14:06:08 [FILE] User jsmith accessed \fileserver\shared\report_862.docx
+2026-08-11 14:09:15 [FIREWALL] Connection allowed from 10.0.0.39 to 10.0.1.14:443
+2026-08-11 14:09:30 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.6
+2026-08-11 14:10:11 [PROC] Process explorer.exe started for user rwilliams PID 8693
+2026-08-11 14:10:43 [PROC] Process explorer.exe started for user mworkman PID 4006
+2026-08-11 14:11:03 [FILE] User asingh accessed \fileserver\shared\report_466.docx
+2026-08-11 14:11:19 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.4
+2026-08-11 14:11:43 [AUTH] Successful login for user mworkman from 10.0.0.31
+2026-08-11 14:12:16 [FIREWALL] Connection allowed from 10.0.0.45 to 10.0.1.14:443
+2026-08-11 14:13:39 [FILE] User tpatel accessed \fileserver\shared\report_126.docx
+2026-08-11 14:13:58 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.17
+2026-08-11 14:14:34 [FIREWALL] Connection allowed from 10.0.0.28 to 10.0.1.17:443
+2026-08-11 14:15:09 [AUTH] Successful login for user jsmith from 10.0.0.38
+2026-08-11 14:15:23 [FILE] User tpatel accessed \fileserver\shared\report_819.docx
+2026-08-11 14:16:14 [FILE] User rwilliams accessed \fileserver\shared\report_771.docx
+2026-08-11 14:16:30 [FILE] User asingh accessed \fileserver\shared\report_996.docx
+2026-08-11 14:16:56 [AUTH] Successful login for user rwilliams from 10.0.0.23
+2026-08-11 14:17:53 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.14
+2026-08-11 14:20:54 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.2
+2026-08-11 14:23:03 [PROC] Process explorer.exe started for user tpatel PID 6400
+2026-08-11 14:23:42 [PROC] Process explorer.exe started for user asingh PID 8253
+2026-08-11 14:23:59 [FIREWALL] Connection allowed from 10.0.0.20 to 10.0.1.8:443
+2026-08-11 14:24:25 [AUTH] Successful login for user asingh from 10.0.0.30
+2026-08-11 14:25:37 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.8
+2026-08-11 14:26:03 [FIREWALL] Connection allowed from 10.0.0.44 to 10.0.1.19:443
+2026-08-11 14:26:10 [FIREWALL] Connection allowed from 10.0.0.28 to 10.0.1.8:443
+2026-08-11 14:29:00 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.10
+2026-08-11 14:30:01 [FILE] User mworkman accessed \fileserver\shared\report_209.docx
+2026-08-11 14:30:55 [FIREWALL] Connection allowed from 10.0.0.31 to 10.0.1.19:443
+2026-08-11 14:31:23 [PROC] Process explorer.exe started for user jsmith PID 3276
+2026-08-11 14:32:18 [FILE] User asingh accessed \fileserver\shared\report_313.docx
+2026-08-11 14:37:15 [FIREWALL] Connection allowed from 10.0.0.56 to 10.0.1.13:443
+2026-08-11 14:37:27 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.7
+2026-08-11 14:38:47 [FILE] User tpatel accessed \fileserver\shared\report_568.docx
+2026-08-11 14:39:00 [AUTH] Successful login for user jsmith from 10.0.0.36
+2026-08-11 14:39:03 [FILE] User jsmith accessed \fileserver\shared\report_200.docx
+2026-08-11 14:39:36 [AUTH] Successful login for user jsmith from 10.0.0.54
+2026-08-11 14:40:09 [FIREWALL] Connection allowed from 10.0.0.41 to 10.0.1.14:443
+2026-08-11 14:40:12 [FILE] User asingh accessed \fileserver\shared\report_408.docx
+2026-08-11 14:40:19 [FILE] User rwilliams accessed \fileserver\shared\report_520.docx
+2026-08-11 14:40:20 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.3
+2026-08-11 14:40:58 [PROC] Process explorer.exe started for user jsmith PID 3401
+2026-08-11 14:41:00 [AUTH] Successful login for user asingh from 10.0.0.37
+2026-08-11 14:42:05 [FILE] User asingh accessed \fileserver\shared\report_922.docx
+2026-08-11 14:43:13 [PROC] Process explorer.exe started for user asingh PID 3324
+2026-08-11 14:43:29 [PROC] Process explorer.exe started for user jsmith PID 3112
+2026-08-11 14:43:42 [AUTH] Successful login for user rwilliams from 10.0.0.45
+2026-08-11 14:43:46 [PROC] Process explorer.exe started for user asingh PID 7744
+2026-08-11 14:44:25 [PROC] Process explorer.exe started for user tpatel PID 6066
+2026-08-11 14:44:50 [AUTH] Successful login for user klee from 10.0.0.25
+2026-08-11 14:45:16 [AUTH] Successful login for user jsmith from 10.0.0.24
+2026-08-11 14:46:12 [AUTH] Successful login for user tpatel from 10.0.0.44
+2026-08-11 14:46:50 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.19
+2026-08-11 14:47:49 [AUTH] Successful login for user rwilliams from 10.0.0.33
+2026-08-11 14:48:49 [FILE] User tpatel accessed \fileserver\shared\report_568.docx
+2026-08-11 14:49:18 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.14
+2026-08-11 14:49:43 [PROC] Process explorer.exe started for user tpatel PID 3825
+2026-08-11 14:51:40 [AUTH] Successful login for user klee from 10.0.0.55
+2026-08-11 14:53:41 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.4
+2026-08-11 14:56:50 [AUTH] Successful login for user asingh from 10.0.0.34
+2026-08-11 14:58:04 [AUTH] Successful login for user mworkman from 10.0.0.21
+2026-08-11 14:58:08 [PROC] Process explorer.exe started for user rwilliams PID 5848
+2026-08-11 14:59:17 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.9
+2026-08-11 15:00:57 [AUTH] Successful login for user tpatel from 10.0.0.31
+2026-08-11 15:01:00 [PROC] Process explorer.exe started for user rwilliams PID 1137
+2026-08-11 15:01:24 [FILE] User tpatel accessed \fileserver\shared\report_861.docx
+2026-08-11 15:01:24 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.7
+2026-08-11 15:01:26 [FIREWALL] Connection allowed from 10.0.0.37 to 10.0.1.18:443
+2026-08-11 15:02:18 [FIREWALL] Connection allowed from 10.0.0.52 to 10.0.1.3:443
+2026-08-11 15:03:22 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.14
+2026-08-11 15:04:12 [AUTH] Successful login for user tpatel from 10.0.0.29
+2026-08-11 15:04:38 [FILE] User rwilliams accessed \fileserver\shared\report_447.docx
+2026-08-11 15:05:48 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.5
+2026-08-11 15:06:29 [FILE] User mworkman accessed \fileserver\shared\report_70.docx
+2026-08-11 15:07:06 [FIREWALL] Connection allowed from 10.0.0.28 to 10.0.1.13:443
+2026-08-11 15:07:56 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.3
+2026-08-11 15:09:15 [AUTH] Successful login for user rwilliams from 10.0.0.37
+2026-08-11 15:10:33 [PROC] Process explorer.exe started for user asingh PID 1258
+2026-08-11 15:11:03 [AUTH] Successful login for user rwilliams from 10.0.0.41
+2026-08-11 15:11:23 [PROC] Process explorer.exe started for user rwilliams PID 3512
+2026-08-11 15:11:32 [AUTH] Successful login for user asingh from 10.0.0.56
+2026-08-11 15:12:06 [AUTH] Successful login for user rwilliams from 10.0.0.44
+2026-08-11 15:13:22 [FILE] User klee accessed \fileserver\shared\report_570.docx
+2026-08-11 15:16:10 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.16
+2026-08-11 15:16:57 [AUTH] Successful login for user jsmith from 10.0.0.47
+2026-08-11 15:17:02 [AUTH] Successful login for user tpatel from 10.0.0.37
+2026-08-11 15:17:20 [FILE] User klee accessed \fileserver\shared\report_134.docx
+2026-08-11 15:19:15 [FIREWALL] Connection allowed from 10.0.0.23 to 10.0.1.1:443
+2026-08-11 15:20:38 [PROC] Process explorer.exe started for user rwilliams PID 4256
+2026-08-11 15:22:26 [FILE] User klee accessed \fileserver\shared\report_338.docx
+2026-08-11 15:22:30 [AUTH] Successful login for user asingh from 10.0.0.48
+2026-08-11 15:23:21 [FILE] User jsmith accessed \fileserver\shared\report_700.docx
+2026-08-11 15:24:04 [PROC] Process explorer.exe started for user tpatel PID 5374
+2026-08-11 15:25:31 [PROC] Process explorer.exe started for user rwilliams PID 2899
+2026-08-11 15:25:41 [PROC] Process explorer.exe started for user mworkman PID 3017
+2026-08-11 15:29:13 [FILE] User rwilliams accessed \fileserver\shared\report_883.docx
+2026-08-11 15:30:13 [PROC] Process explorer.exe started for user mworkman PID 2996
+2026-08-11 15:30:47 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.4
+2026-08-11 15:32:17 [FIREWALL] Connection allowed from 10.0.0.26 to 10.0.1.4:443
+2026-08-11 15:32:51 [FILE] User mworkman accessed \fileserver\shared\report_373.docx
+2026-08-11 15:32:57 [AUTH] Successful login for user jsmith from 10.0.0.54
+2026-08-11 15:33:40 [PROC] Process explorer.exe started for user jsmith PID 4582
+2026-08-11 15:33:42 [FILE] User jsmith accessed \fileserver\shared\report_614.docx
+2026-08-11 15:34:51 [AUTH] Successful login for user rwilliams from 10.0.0.51
+2026-08-11 15:35:47 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.1
+2026-08-11 15:35:54 [FIREWALL] Connection allowed from 10.0.0.23 to 10.0.1.13:443
+2026-08-11 15:36:46 [FILE] User asingh accessed \fileserver\shared\report_297.docx
+2026-08-11 15:37:36 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.10
+2026-08-11 15:37:55 [AUTH] Successful login for user klee from 10.0.0.30
+2026-08-11 15:40:11 [FIREWALL] Connection allowed from 10.0.0.49 to 10.0.1.2:443
+2026-08-11 15:41:44 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.5
+2026-08-11 15:42:19 [FIREWALL] Connection allowed from 10.0.0.49 to 10.0.1.19:443
+2026-08-11 15:42:23 [FILE] User tpatel accessed \fileserver\shared\report_883.docx
+2026-08-11 15:45:23 [AUTH] Successful login for user rwilliams from 10.0.0.50
+2026-08-11 15:45:23 [FILE] User jsmith accessed \fileserver\shared\report_862.docx
+2026-08-11 15:45:29 [FIREWALL] Connection allowed from 10.0.0.52 to 10.0.1.17:443
+2026-08-11 15:46:25 [FILE] User tpatel accessed \fileserver\shared\report_562.docx
+2026-08-11 15:46:26 [FIREWALL] Connection allowed from 10.0.0.52 to 10.0.1.5:443
+2026-08-11 15:47:37 [PROC] Process explorer.exe started for user tpatel PID 1303
+2026-08-11 15:47:41 [AUTH] Successful login for user jsmith from 10.0.0.45
+2026-08-11 15:49:14 [AUTH] Successful login for user klee from 10.0.0.58
+2026-08-11 15:49:35 [FIREWALL] Connection allowed from 10.0.0.38 to 10.0.1.11:443
+2026-08-11 15:49:49 [FIREWALL] Connection allowed from 10.0.0.54 to 10.0.1.8:443
+2026-08-11 15:51:00 [FIREWALL] Connection allowed from 10.0.0.51 to 10.0.1.5:443
+2026-08-11 15:51:51 [AUTH] Successful login for user asingh from 10.0.0.51
+2026-08-11 15:52:17 [FIREWALL] Connection allowed from 10.0.0.21 to 10.0.1.4:443
+2026-08-11 15:54:07 [FILE] User asingh accessed \fileserver\shared\report_917.docx
+2026-08-11 15:54:25 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.16
+2026-08-11 15:54:31 [FIREWALL] Connection allowed from 10.0.0.51 to 10.0.1.11:443
+2026-08-11 15:54:46 [FIREWALL] Connection allowed from 10.0.0.52 to 10.0.1.9:443
+2026-08-11 15:55:23 [PROC] Process explorer.exe started for user jsmith PID 3335
+2026-08-11 15:55:59 [AUTH] Successful login for user klee from 10.0.0.47
+2026-08-11 15:56:08 [PROC] Process explorer.exe started for user asingh PID 7625
+2026-08-11 15:57:53 [FIREWALL] Connection allowed from 10.0.0.56 to 10.0.1.15:443
+2026-08-11 15:58:08 [FIREWALL] Connection allowed from 10.0.0.20 to 10.0.1.8:443
+2026-08-11 15:58:29 [AUTH] Successful login for user jsmith from 10.0.0.40
+2026-08-11 16:00:47 [AUTH] Successful login for user jsmith from 10.0.0.55
+2026-08-11 16:00:49 [FIREWALL] Connection allowed from 10.0.0.41 to 10.0.1.14:443
+2026-08-11 16:02:20 [PROC] Process explorer.exe started for user rwilliams PID 5115
+2026-08-11 16:02:51 [AUTH] Successful login for user klee from 10.0.0.47
+2026-08-11 16:04:29 [AUTH] Successful login for user klee from 10.0.0.53
+2026-08-11 16:05:25 [FILE] User tpatel accessed \fileserver\shared\report_342.docx
+2026-08-11 16:06:13 [PROC] Process explorer.exe started for user klee PID 3220
+2026-08-11 16:07:04 [FIREWALL] Connection allowed from 10.0.0.48 to 10.0.1.19:443
+2026-08-11 16:07:22 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.19
+2026-08-11 16:07:33 [AUTH] Successful login for user asingh from 10.0.0.33
+2026-08-11 16:08:46 [FIREWALL] Connection allowed from 10.0.0.21 to 10.0.1.10:443
+2026-08-11 16:09:12 [FILE] User asingh accessed \fileserver\shared\report_795.docx
+2026-08-11 16:14:07 [FIREWALL] Connection allowed from 10.0.0.35 to 10.0.1.16:443
+2026-08-11 16:14:50 [FILE] User mworkman accessed \fileserver\shared\report_552.docx
+2026-08-11 16:16:08 [FILE] User jsmith accessed \fileserver\shared\report_292.docx
+2026-08-11 16:16:24 [FIREWALL] Connection allowed from 10.0.0.45 to 10.0.1.12:443
+2026-08-11 16:17:44 [FIREWALL] Connection allowed from 10.0.0.48 to 10.0.1.16:443
+2026-08-11 16:20:11 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.3
+2026-08-11 16:21:04 [PROC] Process explorer.exe started for user asingh PID 4354
+2026-08-11 16:23:39 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.2
+2026-08-11 16:24:28 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.14
+2026-08-11 16:24:58 [PROC] Process explorer.exe started for user jsmith PID 6767
+2026-08-11 16:25:08 [PROC] Process explorer.exe started for user rwilliams PID 2579
+2026-08-11 16:25:32 [AUTH] Successful login for user jsmith from 10.0.0.22
+2026-08-11 16:25:52 [PROC] Process explorer.exe started for user asingh PID 7170
+2026-08-11 16:25:54 [FIREWALL] Connection allowed from 10.0.0.23 to 10.0.1.12:443
+2026-08-11 16:26:29 [PROC] Process explorer.exe started for user jsmith PID 6511
+2026-08-11 16:26:33 [FIREWALL] Connection allowed from 10.0.0.33 to 10.0.1.2:443
+2026-08-11 16:26:34 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.16
+2026-08-11 16:26:42 [FIREWALL] Connection allowed from 10.0.0.40 to 10.0.1.1:443
+2026-08-11 16:26:49 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.5
+2026-08-11 16:27:14 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.19
+2026-08-11 16:27:26 [AUTH] Successful login for user asingh from 10.0.0.56
+2026-08-11 16:28:33 [FILE] User jsmith accessed \fileserver\shared\report_64.docx
+2026-08-11 16:30:27 [FIREWALL] Connection allowed from 10.0.0.24 to 10.0.1.10:443
+2026-08-11 16:32:05 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.1
+2026-08-11 16:34:31 [PROC] Process explorer.exe started for user klee PID 4017
+2026-08-11 16:35:13 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.2
+2026-08-11 16:36:00 [PROC] Process explorer.exe started for user tpatel PID 3876
+2026-08-11 16:37:19 [FIREWALL] Connection allowed from 10.0.0.22 to 10.0.1.10:443
+2026-08-11 16:39:10 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.2
+2026-08-11 16:39:44 [PROC] Process explorer.exe started for user klee PID 2808
+2026-08-11 16:40:01 [PROC] Process explorer.exe started for user rwilliams PID 2742
+2026-08-11 16:40:01 [FILE] User asingh accessed \fileserver\shared\report_486.docx
+2026-08-11 16:41:21 [AUTH] Successful login for user asingh from 10.0.0.51
+2026-08-11 16:42:40 [PROC] Process explorer.exe started for user klee PID 6511
+2026-08-11 16:42:53 [FILE] User rwilliams accessed \fileserver\shared\report_306.docx
+2026-08-11 16:43:28 [AUTH] Successful login for user jsmith from 10.0.0.41
+2026-08-11 16:44:07 [FILE] User tpatel accessed \fileserver\shared\report_647.docx
+2026-08-11 16:46:17 [PROC] Process explorer.exe started for user klee PID 7661
+2026-08-11 16:46:36 [AUTH] Successful login for user klee from 10.0.0.30
+2026-08-11 16:46:46 [FILE] User asingh accessed \fileserver\shared\report_963.docx
+2026-08-11 16:49:49 [FILE] User asingh accessed \fileserver\shared\report_259.docx
+2026-08-11 16:50:32 [PROC] Process explorer.exe started for user jsmith PID 1356
+2026-08-11 16:50:43 [FILE] User jsmith accessed \fileserver\shared\report_789.docx
+2026-08-11 16:51:19 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.11
+2026-08-11 16:51:49 [FIREWALL] Connection allowed from 10.0.0.57 to 10.0.1.13:443
+2026-08-11 16:52:00 [PROC] Process explorer.exe started for user asingh PID 2536
+2026-08-11 16:52:48 [FIREWALL] Connection allowed from 10.0.0.38 to 10.0.1.16:443
+2026-08-11 16:54:38 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.6
+2026-08-11 16:55:27 [AUTH] Successful login for user klee from 10.0.0.48
+2026-08-11 16:55:58 [PROC] Process explorer.exe started for user tpatel PID 5960
+2026-08-11 16:56:24 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.9
+2026-08-11 16:56:39 [AUTH] Successful login for user mworkman from 10.0.0.50
+2026-08-11 16:57:18 [AUTH] Successful login for user klee from 10.0.0.32
+2026-08-11 16:58:29 [AUTH] Successful login for user tpatel from 10.0.0.29
+2026-08-11 17:00:44 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.1
+2026-08-11 17:00:46 [AUTH] Successful login for user mworkman from 10.0.0.52
+2026-08-11 17:01:23 [FIREWALL] Connection allowed from 10.0.0.28 to 10.0.1.10:443
+2026-08-11 17:02:22 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.18
+2026-08-11 17:02:50 [FILE] User tpatel accessed \fileserver\shared\report_112.docx
+2026-08-11 17:03:00 [PROC] Process explorer.exe started for user klee PID 8091
+2026-08-11 17:04:10 [AUTH] Successful login for user asingh from 10.0.0.48
+2026-08-11 17:04:17 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.16
+2026-08-11 17:05:08 [FIREWALL] Connection allowed from 10.0.0.44 to 10.0.1.5:443
+2026-08-11 17:06:03 [PROC] Process explorer.exe started for user jsmith PID 2362
+2026-08-11 17:06:20 [FIREWALL] Connection allowed from 10.0.0.27 to 10.0.1.9:443
+2026-08-11 17:07:09 [FILE] User asingh accessed \fileserver\shared\report_935.docx
+2026-08-11 17:08:12 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.6
+2026-08-11 17:08:17 [AUTH] Successful login for user jsmith from 10.0.0.55
+2026-08-11 17:09:24 [FIREWALL] Connection allowed from 10.0.0.52 to 10.0.1.5:443
+2026-08-11 17:10:30 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.7
+2026-08-11 17:10:31 [FILE] User mworkman accessed \fileserver\shared\report_863.docx
+2026-08-11 17:11:02 [PROC] Process explorer.exe started for user asingh PID 2630
+2026-08-11 17:11:29 [PROC] Process explorer.exe started for user klee PID 7295
+2026-08-11 17:11:56 [AUTH] Successful login for user tpatel from 10.0.0.53
+2026-08-11 17:12:42 [PROC] Process explorer.exe started for user tpatel PID 2437
+2026-08-11 17:12:45 [PROC] Process explorer.exe started for user asingh PID 5827
+2026-08-11 17:14:00 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.4
+2026-08-11 17:16:16 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.13
+2026-08-11 17:16:30 [FIREWALL] Connection allowed from 10.0.0.20 to 10.0.1.10:443
+2026-08-11 17:18:20 [AUTH] Successful login for user jsmith from 10.0.0.40
+2026-08-11 17:21:01 [AUTH] Successful login for user klee from 10.0.0.31
+2026-08-11 17:21:24 [FIREWALL] Connection allowed from 10.0.0.54 to 10.0.1.10:443
+2026-08-11 17:21:34 [FILE] User tpatel accessed \fileserver\shared\report_197.docx
+2026-08-11 17:22:20 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.18
+2026-08-11 17:23:29 [AUTH] Successful login for user tpatel from 10.0.0.52
+2026-08-11 17:23:58 [AUTH] Successful login for user rwilliams from 10.0.0.46
+2026-08-11 17:24:06 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.6
+2026-08-11 17:24:19 [FILE] User tpatel accessed \fileserver\shared\report_888.docx
+2026-08-11 17:24:27 [FIREWALL] Connection allowed from 10.0.0.57 to 10.0.1.13:443
+2026-08-11 17:24:29 [FILE] User mworkman accessed \fileserver\shared\report_393.docx
+2026-08-11 17:24:57 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.10
+2026-08-11 17:27:54 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.5
+2026-08-11 17:28:02 [AUTH] Successful login for user asingh from 10.0.0.59
+2026-08-11 17:28:29 [FILE] User rwilliams accessed \fileserver\shared\report_176.docx
+2026-08-11 17:28:57 [FIREWALL] Connection allowed from 10.0.0.50 to 10.0.1.15:443
+2026-08-11 17:31:28 [AUTH] Successful login for user rwilliams from 10.0.0.22
+2026-08-11 17:31:34 [PROC] Process explorer.exe started for user asingh PID 7728
+2026-08-11 17:31:58 [FIREWALL] Connection allowed from 10.0.0.50 to 10.0.1.11:443
+2026-08-11 17:32:07 [PROC] Process explorer.exe started for user jsmith PID 7744
+2026-08-11 17:32:14 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.9
+2026-08-11 17:33:48 [FILE] User rwilliams accessed \fileserver\shared\report_712.docx
+2026-08-11 17:34:01 [AUTH] Successful login for user asingh from 10.0.0.27
+2026-08-11 17:34:25 [AUTH] Successful login for user klee from 10.0.0.34
+2026-08-11 17:35:32 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.3
+2026-08-11 17:36:59 [PROC] Process explorer.exe started for user mworkman PID 4771
+2026-08-11 17:38:56 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.5
+2026-08-11 17:40:50 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.17
+2026-08-11 17:41:05 [FILE] User mworkman accessed \fileserver\shared\report_74.docx
+2026-08-11 17:41:43 [FILE] User klee accessed \fileserver\shared\report_472.docx
+2026-08-11 17:42:56 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.14
+2026-08-11 17:44:40 [FILE] User tpatel accessed \fileserver\shared\report_576.docx
+2026-08-11 17:47:38 [FIREWALL] Connection allowed from 10.0.0.32 to 10.0.1.10:443
+2026-08-11 17:48:15 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.15
+2026-08-11 17:48:29 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.11
+2026-08-11 17:49:52 [PROC] Process explorer.exe started for user rwilliams PID 5988
+2026-08-11 17:49:55 [FIREWALL] Connection allowed from 10.0.0.43 to 10.0.1.12:443
+2026-08-11 17:50:31 [FILE] User rwilliams accessed \fileserver\shared\report_398.docx
+2026-08-11 17:51:42 [FIREWALL] Connection allowed from 10.0.0.58 to 10.0.1.3:443
+2026-08-11 17:52:34 [PROC] Process explorer.exe started for user asingh PID 7857
+2026-08-11 17:52:48 [AUTH] Successful login for user jsmith from 10.0.0.42
+2026-08-11 17:52:50 [AUTH] Successful login for user mworkman from 10.0.0.56
+2026-08-11 17:54:03 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.7
+2026-08-11 17:54:14 [AUTH] Successful login for user asingh from 10.0.0.53
+2026-08-11 17:57:32 [FIREWALL] Connection allowed from 10.0.0.54 to 10.0.1.5:443
+2026-08-11 17:57:39 [AUTH] Successful login for user jsmith from 10.0.0.30
+2026-08-11 17:57:44 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.3
+2026-08-11 17:59:10 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.16
+2026-08-11 17:59:17 [PROC] Process explorer.exe started for user asingh PID 2450
+2026-08-11 17:59:27 [PROC] Process explorer.exe started for user asingh PID 6667
+2026-08-11 17:59:59 [FILE] User klee accessed \fileserver\shared\report_693.docx
+2026-08-11 18:01:20 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.11
+2026-08-11 18:02:08 [AUTH] Successful login for user tpatel from 10.0.0.59
+2026-08-11 18:02:11 [PROC] Process explorer.exe started for user klee PID 6239
+2026-08-11 18:02:52 [AUTH] Successful login for user jsmith from 10.0.0.22
+2026-08-11 18:03:25 [AUTH] Successful login for user tpatel from 10.0.0.30
+2026-08-11 18:03:31 [PROC] Process explorer.exe started for user klee PID 5470
+2026-08-11 18:03:35 [AUTH] Successful login for user jsmith from 10.0.0.52
+2026-08-11 18:04:02 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.18
+2026-08-11 18:04:52 [AUTH] Successful login for user jsmith from 10.0.0.51
+2026-08-11 18:05:05 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.5
+2026-08-11 18:06:20 [FILE] User rwilliams accessed \fileserver\shared\report_562.docx
+2026-08-11 18:06:28 [PROC] Process explorer.exe started for user mworkman PID 6957
+2026-08-11 18:06:37 [FILE] User klee accessed \fileserver\shared\report_821.docx
+2026-08-11 18:06:51 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.11
+2026-08-11 18:06:59 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.3
+2026-08-11 18:09:03 [FIREWALL] Connection allowed from 10.0.0.31 to 10.0.1.17:443
+2026-08-11 18:09:14 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.15
+2026-08-11 18:09:27 [FILE] User rwilliams accessed \fileserver\shared\report_556.docx
+2026-08-11 18:09:48 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.6
+2026-08-11 18:10:16 [AUTH] Successful login for user rwilliams from 10.0.0.40
+2026-08-11 18:11:24 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.3
+2026-08-11 18:11:26 [AUTH] Successful login for user mworkman from 10.0.0.51
+2026-08-11 18:11:46 [FIREWALL] Connection allowed from 10.0.0.44 to 10.0.1.11:443
+2026-08-11 18:12:06 [AUTH] Successful login for user jsmith from 10.0.0.58
+2026-08-11 18:12:37 [PROC] Process explorer.exe started for user mworkman PID 8807
+2026-08-11 18:12:45 [AUTH] Successful login for user jsmith from 10.0.0.34
+2026-08-11 18:13:29 [FILE] User klee accessed \fileserver\shared\report_797.docx
+2026-08-11 18:14:00 [AUTH] Successful login for user tpatel from 10.0.0.23
+2026-08-11 18:14:59 [AUTH] Successful login for user jsmith from 10.0.0.29
+2026-08-11 18:15:36 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.11
+2026-08-11 18:16:58 [AUTH] Successful login for user jsmith from 10.0.0.24
+2026-08-11 18:18:29 [AUTH] Successful login for user asingh from 10.0.0.23
+2026-08-11 18:20:26 [FIREWALL] Connection allowed from 10.0.0.40 to 10.0.1.8:443
+2026-08-11 18:21:41 [FILE] User asingh accessed \fileserver\shared\report_863.docx
+2026-08-11 18:22:36 [FILE] User tpatel accessed \fileserver\shared\report_850.docx
+2026-08-11 18:22:49 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.4
+2026-08-11 18:22:52 [FIREWALL] Connection allowed from 10.0.0.28 to 10.0.1.17:443
+2026-08-11 18:23:51 [FILE] User asingh accessed \fileserver\shared\report_321.docx
+2026-08-11 18:25:23 [FIREWALL] Connection allowed from 10.0.0.52 to 10.0.1.16:443
+2026-08-11 18:26:28 [AUTH] Successful login for user tpatel from 10.0.0.52
+2026-08-11 18:27:32 [FILE] User klee accessed \fileserver\shared\report_795.docx
+2026-08-11 18:28:05 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.4
+2026-08-11 18:30:17 [AUTH] Successful login for user rwilliams from 10.0.0.31
+2026-08-11 18:30:32 [PROC] Process explorer.exe started for user mworkman PID 1656
+2026-08-11 18:31:02 [FILE] User klee accessed \fileserver\shared\report_878.docx
+2026-08-11 18:31:05 [PROC] Process explorer.exe started for user asingh PID 2080
+2026-08-11 18:31:13 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.14
+2026-08-11 18:31:44 [FILE] User rwilliams accessed \fileserver\shared\report_523.docx
+2026-08-11 18:32:08 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.2
+2026-08-11 18:33:10 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.9
+2026-08-11 18:34:45 [AUTH] Successful login for user mworkman from 10.0.0.27
+2026-08-11 18:34:59 [FILE] User klee accessed \fileserver\shared\report_57.docx
+2026-08-11 18:35:09 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.10
+2026-08-11 18:35:22 [AUTH] Successful login for user tpatel from 10.0.0.40
+2026-08-11 18:36:09 [PROC] Process explorer.exe started for user mworkman PID 3531
+2026-08-11 18:36:41 [PROC] Process explorer.exe started for user mworkman PID 3663
+2026-08-11 18:38:05 [FIREWALL] Connection allowed from 10.0.0.39 to 10.0.1.16:443
+2026-08-11 18:38:29 [PROC] Process explorer.exe started for user asingh PID 3536
+2026-08-11 18:39:04 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.4
+2026-08-11 18:41:12 [FILE] User rwilliams accessed \fileserver\shared\report_155.docx
+2026-08-11 18:42:01 [AUTH] Successful login for user tpatel from 10.0.0.47
+2026-08-11 18:42:02 [FIREWALL] Connection allowed from 10.0.0.21 to 10.0.1.7:443
+2026-08-11 18:43:06 [FIREWALL] Connection allowed from 10.0.0.28 to 10.0.1.10:443
+2026-08-11 18:43:21 [FILE] User jsmith accessed \fileserver\shared\report_861.docx
+2026-08-11 18:43:39 [FIREWALL] Connection allowed from 10.0.0.48 to 10.0.1.6:443
+2026-08-11 18:44:07 [FIREWALL] Connection allowed from 10.0.0.48 to 10.0.1.11:443
+2026-08-11 18:44:36 [FIREWALL] Connection allowed from 10.0.0.43 to 10.0.1.13:443
+2026-08-11 18:46:16 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.5
+2026-08-11 18:46:40 [AUTH] Successful login for user rwilliams from 10.0.0.32
+2026-08-11 18:48:00 [PROC] Process explorer.exe started for user mworkman PID 2407
+2026-08-11 18:49:59 [PROC] Process explorer.exe started for user jsmith PID 8456
+2026-08-11 18:50:02 [FILE] User rwilliams accessed \fileserver\shared\report_71.docx
+2026-08-11 18:50:02 [FIREWALL] Connection allowed from 10.0.0.41 to 10.0.1.19:443
+2026-08-11 18:50:19 [PROC] Process explorer.exe started for user mworkman PID 5847
+2026-08-11 18:50:53 [FIREWALL] Connection allowed from 10.0.0.28 to 10.0.1.17:443
+2026-08-11 18:52:51 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.12
+2026-08-11 18:53:52 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.16
+2026-08-11 18:54:31 [FILE] User tpatel accessed \fileserver\shared\report_102.docx
+2026-08-11 18:55:17 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.9
+2026-08-11 18:56:31 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.2
+2026-08-11 18:57:42 [PROC] Process explorer.exe started for user mworkman PID 5309
+2026-08-11 18:58:10 [FILE] User jsmith accessed \fileserver\shared\report_972.docx
+2026-08-11 19:01:33 [FIREWALL] Connection allowed from 10.0.0.20 to 10.0.1.10:443
+2026-08-11 19:03:14 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.3
+2026-08-11 19:03:38 [AUTH] Successful login for user tpatel from 10.0.0.26
+2026-08-11 19:04:24 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.17
+2026-08-11 19:05:26 [PROC] Process explorer.exe started for user rwilliams PID 8657
+2026-08-11 19:05:40 [FILE] User klee accessed \fileserver\shared\report_572.docx
+2026-08-11 19:06:59 [FILE] User klee accessed \fileserver\shared\report_537.docx
+2026-08-11 19:07:55 [FILE] User tpatel accessed \fileserver\shared\report_279.docx
+2026-08-11 19:08:50 [FIREWALL] Connection allowed from 10.0.0.23 to 10.0.1.19:443
+2026-08-11 19:09:43 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.15
+2026-08-11 19:10:23 [FILE] User klee accessed \fileserver\shared\report_794.docx
+2026-08-11 19:11:29 [PROC] Process explorer.exe started for user asingh PID 4151
+2026-08-11 19:12:29 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.9
+2026-08-11 19:12:58 [AUTH] Successful login for user tpatel from 10.0.0.47
+2026-08-11 19:14:07 [PROC] Process explorer.exe started for user mworkman PID 3787
+2026-08-11 19:14:14 [FIREWALL] Connection allowed from 10.0.0.29 to 10.0.1.15:443
+2026-08-11 19:14:41 [AUTH] Successful login for user tpatel from 10.0.0.49
+2026-08-11 19:16:09 [AUTH] Successful login for user klee from 10.0.0.30
+2026-08-11 19:17:13 [FIREWALL] Connection allowed from 10.0.0.30 to 10.0.1.19:443
+2026-08-11 19:18:09 [AUTH] Successful login for user rwilliams from 10.0.0.40
+2026-08-11 19:18:20 [AUTH] Successful login for user tpatel from 10.0.0.20
+2026-08-11 19:19:21 [AUTH] Successful login for user jsmith from 10.0.0.26
+2026-08-11 19:19:22 [AUTH] Successful login for user rwilliams from 10.0.0.52
+2026-08-11 19:20:23 [AUTH] Successful login for user tpatel from 10.0.0.46
+2026-08-11 19:20:48 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.14
+2026-08-11 19:21:07 [FILE] User jsmith accessed \fileserver\shared\report_183.docx
+2026-08-11 19:23:44 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.5
+2026-08-11 19:23:51 [AUTH] Successful login for user mworkman from 10.0.0.49
+2026-08-11 19:24:05 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.8
+2026-08-11 19:24:49 [FILE] User rwilliams accessed \fileserver\shared\report_495.docx
+2026-08-11 19:24:51 [FILE] User asingh accessed \fileserver\shared\report_836.docx
+2026-08-11 19:26:15 [FIREWALL] Connection allowed from 10.0.0.56 to 10.0.1.11:443
+2026-08-11 19:26:26 [AUTH] Successful login for user klee from 10.0.0.42
+2026-08-11 19:26:45 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.12
+2026-08-11 19:27:13 [PROC] Process explorer.exe started for user tpatel PID 4268
+2026-08-11 19:27:40 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.16
+2026-08-11 19:27:40 [FIREWALL] Connection allowed from 10.0.0.59 to 10.0.1.19:443
+2026-08-11 19:28:11 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.12
+2026-08-11 19:29:43 [FIREWALL] Connection allowed from 10.0.0.35 to 10.0.1.19:443
+2026-08-11 19:30:16 [PROC] Process explorer.exe started for user rwilliams PID 5780
+2026-08-11 19:30:37 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.14
+2026-08-11 19:31:44 [FILE] User asingh accessed \fileserver\shared\report_415.docx
+2026-08-11 19:32:07 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.9
+2026-08-11 19:32:33 [FIREWALL] Connection allowed from 10.0.0.30 to 10.0.1.2:443
+2026-08-11 19:34:01 [PROC] Process explorer.exe started for user rwilliams PID 3386
+2026-08-11 19:36:19 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.10
+2026-08-11 19:36:32 [AUTH] Successful login for user mworkman from 10.0.0.47
+2026-08-11 19:36:39 [FIREWALL] Connection allowed from 10.0.0.34 to 10.0.1.8:443
+2026-08-11 19:37:15 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.13
+2026-08-11 19:40:19 [FIREWALL] Connection allowed from 10.0.0.51 to 10.0.1.12:443
+2026-08-11 19:40:35 [FIREWALL] Connection allowed from 10.0.0.31 to 10.0.1.5:443
+2026-08-11 19:41:22 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.1
+2026-08-11 19:42:24 [FILE] User jsmith accessed \fileserver\shared\report_187.docx
+2026-08-11 19:42:57 [FIREWALL] Connection allowed from 10.0.0.27 to 10.0.1.4:443
+2026-08-11 19:43:39 [AUTH] Successful login for user mworkman from 10.0.0.26
+2026-08-11 19:43:45 [AUTH] Successful login for user mworkman from 10.0.0.22
+2026-08-11 19:44:11 [AUTH] Successful login for user rwilliams from 10.0.0.48
+2026-08-11 19:44:56 [PROC] Process explorer.exe started for user klee PID 6831
+2026-08-11 19:45:04 [AUTH] Successful login for user mworkman from 10.0.0.51
+2026-08-11 19:46:27 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.19
+2026-08-11 19:47:00 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.10
+2026-08-11 19:47:36 [PROC] Process explorer.exe started for user rwilliams PID 5265
+2026-08-11 19:52:51 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.15
+2026-08-11 19:52:51 [FIREWALL] Connection allowed from 10.0.0.35 to 10.0.1.6:443
+2026-08-11 19:54:20 [FILE] User rwilliams accessed \fileserver\shared\report_950.docx
+2026-08-11 19:54:27 [AUTH] Successful login for user tpatel from 10.0.0.44
+2026-08-11 19:55:49 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.19
+2026-08-11 19:56:05 [AUTH] Successful login for user klee from 10.0.0.45
+2026-08-11 19:56:27 [AUTH] Successful login for user jsmith from 10.0.0.29
+2026-08-11 19:56:53 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.1
+2026-08-11 19:57:14 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.14
+2026-08-11 19:57:32 [FIREWALL] Connection allowed from 10.0.0.59 to 10.0.1.11:443
+2026-08-11 19:58:43 [FIREWALL] Connection allowed from 10.0.0.43 to 10.0.1.17:443
+2026-08-11 19:59:09 [FILE] User jsmith accessed \fileserver\shared\report_313.docx
+2026-08-11 20:00:51 [AUTH] Successful login for user mworkman from 10.0.0.50
+2026-08-11 20:01:09 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.5
+2026-08-11 20:01:30 [PROC] Process explorer.exe started for user jsmith PID 1117
+2026-08-11 20:03:03 [FILE] User tpatel accessed \fileserver\shared\report_811.docx
+2026-08-11 20:04:24 [FILE] User rwilliams accessed \fileserver\shared\report_437.docx
+2026-08-11 20:05:54 [FILE] User tpatel accessed \fileserver\shared\report_978.docx
+2026-08-11 20:07:01 [FILE] User mworkman accessed \fileserver\shared\report_755.docx
+2026-08-11 20:09:04 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.13
+2026-08-11 20:09:14 [AUTH] Successful login for user mworkman from 10.0.0.45
+2026-08-11 20:10:00 [AUTH] Successful login for user asingh from 10.0.0.37
+2026-08-11 20:10:01 [AUTH] Successful login for user rwilliams from 10.0.0.57
+2026-08-11 20:10:37 [PROC] Process explorer.exe started for user mworkman PID 7902
+2026-08-11 20:11:11 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.7
+2026-08-11 20:11:40 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.1
+2026-08-11 20:12:18 [FILE] User jsmith accessed \fileserver\shared\report_128.docx
+2026-08-11 20:12:39 [FILE] User tpatel accessed \fileserver\shared\report_926.docx
+2026-08-11 20:12:48 [FILE] User klee accessed \fileserver\shared\report_930.docx
+2026-08-11 20:13:00 [FIREWALL] Connection allowed from 10.0.0.38 to 10.0.1.9:443
+2026-08-11 20:13:16 [AUTH] Successful login for user mworkman from 10.0.0.35
+2026-08-11 20:14:04 [FIREWALL] Connection allowed from 10.0.0.33 to 10.0.1.17:443
+2026-08-11 20:14:44 [FIREWALL] Connection allowed from 10.0.0.59 to 10.0.1.7:443
+2026-08-11 20:17:50 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.12
+2026-08-11 20:18:31 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.2
+2026-08-11 20:20:11 [PROC] Process explorer.exe started for user tpatel PID 2828
+2026-08-11 20:22:40 [PROC] Process explorer.exe started for user klee PID 8753
+2026-08-11 20:23:55 [AUTH] Successful login for user tpatel from 10.0.0.40
+2026-08-11 20:24:23 [FILE] User tpatel accessed \fileserver\shared\report_808.docx
+2026-08-11 20:24:25 [FIREWALL] Connection allowed from 10.0.0.49 to 10.0.1.15:443
+2026-08-11 20:25:07 [FILE] User rwilliams accessed \fileserver\shared\report_175.docx
+2026-08-11 20:25:17 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.17
+2026-08-11 20:25:49 [FIREWALL] Connection allowed from 10.0.0.25 to 10.0.1.2:443
+2026-08-11 20:26:07 [FIREWALL] Connection allowed from 10.0.0.22 to 10.0.1.10:443
+2026-08-11 20:26:18 [AUTH] Successful login for user asingh from 10.0.0.21
+2026-08-11 20:28:51 [FIREWALL] Connection allowed from 10.0.0.41 to 10.0.1.4:443
+2026-08-11 20:31:25 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.5
+2026-08-11 20:31:29 [PROC] Process explorer.exe started for user rwilliams PID 6267
+2026-08-11 20:31:36 [PROC] Process explorer.exe started for user asingh PID 3256
+2026-08-11 20:32:48 [FIREWALL] Connection allowed from 10.0.0.34 to 10.0.1.8:443
+2026-08-11 20:32:52 [AUTH] Successful login for user asingh from 10.0.0.59
+2026-08-11 20:33:34 [FILE] User asingh accessed \fileserver\shared\report_576.docx
+2026-08-11 20:34:18 [FILE] User asingh accessed \fileserver\shared\report_305.docx
+2026-08-11 20:34:18 [AUTH] Successful login for user tpatel from 10.0.0.33
+2026-08-11 20:34:34 [PROC] Process explorer.exe started for user mworkman PID 3538
+2026-08-11 20:38:08 [FILE] User klee accessed \fileserver\shared\report_491.docx
+2026-08-11 20:39:20 [FILE] User mworkman accessed \fileserver\shared\report_481.docx
+2026-08-11 20:39:36 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.6
+2026-08-11 20:40:00 [AUTH] Successful login for user tpatel from 10.0.0.44
+2026-08-11 20:40:38 [PROC] Process explorer.exe started for user mworkman PID 3656
+2026-08-11 20:41:02 [FILE] User asingh accessed \fileserver\shared\report_374.docx
+2026-08-11 20:41:04 [PROC] Process explorer.exe started for user jsmith PID 3891
+2026-08-11 20:41:05 [FILE] User rwilliams accessed \fileserver\shared\report_862.docx
+2026-08-11 20:41:28 [FILE] User jsmith accessed \fileserver\shared\report_85.docx
+2026-08-11 20:42:27 [PROC] Process explorer.exe started for user klee PID 3530
+2026-08-11 20:42:34 [PROC] Process explorer.exe started for user mworkman PID 3330
+2026-08-11 20:43:41 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.4
+2026-08-11 20:44:22 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.7
+2026-08-11 20:45:43 [AUTH] Successful login for user tpatel from 10.0.0.29
+2026-08-11 20:45:55 [AUTH] Successful login for user asingh from 10.0.0.30
+2026-08-11 20:46:31 [AUTH] Successful login for user tpatel from 10.0.0.41
+2026-08-11 20:47:38 [AUTH] Successful login for user jsmith from 10.0.0.57
+2026-08-11 20:50:02 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.18
+2026-08-11 20:50:17 [FIREWALL] Connection allowed from 10.0.0.57 to 10.0.1.16:443
+2026-08-11 20:50:21 [FIREWALL] Connection allowed from 10.0.0.53 to 10.0.1.3:443
+2026-08-11 20:50:39 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.16
+2026-08-11 20:50:49 [FILE] User rwilliams accessed \fileserver\shared\report_88.docx
+2026-08-11 20:50:53 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.6
+2026-08-11 20:51:33 [AUTH] Successful login for user asingh from 10.0.0.39
+2026-08-11 20:51:38 [PROC] Process explorer.exe started for user rwilliams PID 2672
+2026-08-11 20:53:23 [FIREWALL] Connection allowed from 10.0.0.42 to 10.0.1.7:443
+2026-08-11 20:53:44 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.10
+2026-08-11 20:54:05 [FILE] User asingh accessed \fileserver\shared\report_650.docx
+2026-08-11 20:54:50 [PROC] Process explorer.exe started for user mworkman PID 7305
+2026-08-11 20:56:51 [FIREWALL] Connection allowed from 10.0.0.28 to 10.0.1.2:443
+2026-08-11 20:57:25 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.3
+2026-08-11 20:58:12 [AUTH] Successful login for user klee from 10.0.0.32
+2026-08-11 20:58:17 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.15
+2026-08-11 20:59:07 [AUTH] Successful login for user mworkman from 10.0.0.43
+2026-08-11 21:01:22 [AUTH] Successful login for user tpatel from 10.0.0.50
+2026-08-11 21:06:21 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.4
+2026-08-11 21:06:22 [PROC] Process explorer.exe started for user asingh PID 8583
+2026-08-11 21:06:30 [AUTH] Successful login for user klee from 10.0.0.37
+2026-08-11 21:06:45 [AUTH] Successful login for user asingh from 10.0.0.49
+2026-08-11 21:06:53 [FILE] User rwilliams accessed \fileserver\shared\report_457.docx
+2026-08-11 21:08:21 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.6
+2026-08-11 21:08:24 [AUTH] Successful login for user klee from 10.0.0.33
+2026-08-11 21:09:28 [PROC] Process explorer.exe started for user klee PID 4663
+2026-08-11 21:13:07 [FIREWALL] Connection allowed from 10.0.0.47 to 10.0.1.11:443
+2026-08-11 21:14:26 [FILE] User tpatel accessed \fileserver\shared\report_692.docx
+2026-08-11 21:14:30 [AUTH] Successful login for user rwilliams from 10.0.0.55
+2026-08-11 21:14:52 [AUTH] Successful login for user tpatel from 10.0.0.37
+2026-08-11 21:14:59 [FILE] User tpatel accessed \fileserver\shared\report_436.docx
+2026-08-11 21:15:36 [FIREWALL] Connection allowed from 10.0.0.55 to 10.0.1.14:443
+2026-08-11 21:15:54 [PROC] Process explorer.exe started for user tpatel PID 2149
+2026-08-11 21:16:05 [PROC] Process explorer.exe started for user asingh PID 8253
+2026-08-11 21:16:09 [AUTH] Successful login for user tpatel from 10.0.0.38
+2026-08-11 21:16:23 [FIREWALL] Connection allowed from 10.0.0.50 to 10.0.1.3:443
+2026-08-11 21:16:47 [AUTH] Successful login for user mworkman from 10.0.0.30
+2026-08-11 21:17:07 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.16
+2026-08-11 21:17:44 [AUTH] Successful login for user rwilliams from 10.0.0.30
+2026-08-11 21:20:33 [AUTH] Successful login for user jsmith from 10.0.0.54
+2026-08-11 21:20:35 [AUTH] Successful login for user jsmith from 10.0.0.36
+2026-08-11 21:21:21 [FILE] User klee accessed \fileserver\shared\report_487.docx
+2026-08-11 21:21:21 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.1
+2026-08-11 21:22:58 [FIREWALL] Connection allowed from 10.0.0.31 to 10.0.1.17:443
+2026-08-11 21:23:11 [AUTH] Successful login for user tpatel from 10.0.0.51
+2026-08-11 21:23:45 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.8
+2026-08-11 21:24:22 [FIREWALL] Connection allowed from 10.0.0.52 to 10.0.1.10:443
+2026-08-11 21:24:33 [FILE] User asingh accessed \fileserver\shared\report_141.docx
+2026-08-11 21:25:04 [FIREWALL] Connection allowed from 10.0.0.21 to 10.0.1.3:443
+2026-08-11 21:25:17 [AUTH] Successful login for user rwilliams from 10.0.0.23
+2026-08-11 21:25:48 [FIREWALL] Connection allowed from 10.0.0.55 to 10.0.1.18:443
+2026-08-11 21:27:22 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.2
+2026-08-11 21:27:31 [PROC] Process explorer.exe started for user asingh PID 2765
+2026-08-11 21:28:39 [FILE] User klee accessed \fileserver\shared\report_190.docx
+2026-08-11 21:29:05 [AUTH] Successful login for user tpatel from 10.0.0.34
+2026-08-11 21:29:17 [FIREWALL] Connection allowed from 10.0.0.29 to 10.0.1.15:443
+2026-08-11 21:30:04 [FILE] User jsmith accessed \fileserver\shared\report_460.docx
+2026-08-11 21:31:13 [PROC] Process explorer.exe started for user mworkman PID 4872
+2026-08-11 21:31:31 [PROC] Process explorer.exe started for user klee PID 7631
+2026-08-11 21:31:42 [PROC] Process explorer.exe started for user tpatel PID 4848
+2026-08-11 21:32:31 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.10
+2026-08-11 21:33:19 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.2
+2026-08-11 21:37:04 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.1
+2026-08-11 21:37:23 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.12
+2026-08-11 21:37:49 [FIREWALL] Connection allowed from 10.0.0.41 to 10.0.1.6:443
+2026-08-11 21:37:52 [FIREWALL] Connection allowed from 10.0.0.39 to 10.0.1.10:443
+2026-08-11 21:38:38 [AUTH] Successful login for user jsmith from 10.0.0.32
+2026-08-11 21:40:34 [PROC] Process explorer.exe started for user klee PID 8402
+2026-08-11 21:40:49 [FIREWALL] Connection allowed from 10.0.0.47 to 10.0.1.4:443
+2026-08-11 21:41:09 [FIREWALL] Connection allowed from 10.0.0.53 to 10.0.1.17:443
+2026-08-11 21:41:19 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.1
+2026-08-11 21:41:23 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.4
+2026-08-11 21:41:27 [PROC] Process explorer.exe started for user asingh PID 6715
+2026-08-11 21:41:41 [AUTH] Successful login for user jsmith from 10.0.0.45
+2026-08-11 21:41:45 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.8
+2026-08-11 21:41:52 [PROC] Process explorer.exe started for user rwilliams PID 7730
+2026-08-11 21:42:05 [PROC] Process explorer.exe started for user klee PID 5457
+2026-08-11 21:43:19 [PROC] Process explorer.exe started for user klee PID 3220
+2026-08-11 21:43:56 [PROC] Process explorer.exe started for user tpatel PID 1113
+2026-08-11 21:45:08 [FILE] User asingh accessed \fileserver\shared\report_135.docx
+2026-08-11 21:45:51 [FILE] User rwilliams accessed \fileserver\shared\report_689.docx
+2026-08-11 21:46:15 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.5
+2026-08-11 21:46:21 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.12
+2026-08-11 21:48:00 [FILE] User mworkman accessed \fileserver\shared\report_183.docx
+2026-08-11 21:48:25 [PROC] Process explorer.exe started for user klee PID 1190
+2026-08-11 21:49:11 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.15
+2026-08-11 21:50:52 [PROC] Process explorer.exe started for user tpatel PID 5257
+2026-08-11 21:51:10 [FIREWALL] Connection allowed from 10.0.0.31 to 10.0.1.18:443
+2026-08-11 21:51:19 [FILE] User tpatel accessed \fileserver\shared\report_548.docx
+2026-08-11 21:51:36 [AUTH] Successful login for user rwilliams from 10.0.0.49
+2026-08-11 21:52:17 [PROC] Process explorer.exe started for user klee PID 8253
+2026-08-11 21:52:35 [FILE] User tpatel accessed \fileserver\shared\report_271.docx
+2026-08-11 21:52:38 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.2
+2026-08-11 21:53:10 [AUTH] Successful login for user jsmith from 10.0.0.25
+2026-08-11 21:53:44 [FILE] User jsmith accessed \fileserver\shared\report_720.docx
+2026-08-11 21:53:55 [PROC] Process explorer.exe started for user rwilliams PID 5720
+2026-08-11 21:54:20 [FILE] User tpatel accessed \fileserver\shared\report_556.docx
+2026-08-11 21:55:31 [PROC] Process explorer.exe started for user tpatel PID 6007
+2026-08-11 21:55:49 [PROC] Process explorer.exe started for user jsmith PID 8127
+2026-08-11 21:57:19 [FIREWALL] Connection allowed from 10.0.0.47 to 10.0.1.10:443
+2026-08-11 21:59:41 [FIREWALL] Connection allowed from 10.0.0.23 to 10.0.1.17:443
+2026-08-11 21:59:49 [FIREWALL] Connection allowed from 10.0.0.31 to 10.0.1.11:443
+2026-08-11 22:00:10 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.17
+2026-08-11 22:01:27 [FIREWALL] Connection allowed from 10.0.0.47 to 10.0.1.6:443
+2026-08-11 22:01:54 [PROC] Process explorer.exe started for user asingh PID 8722
+2026-08-11 22:01:54 [FILE] User mworkman accessed \fileserver\shared\report_194.docx
+2026-08-11 22:03:33 [AUTH] Successful login for user asingh from 10.0.0.56
+2026-08-11 22:06:57 [FILE] User asingh accessed \fileserver\shared\report_91.docx
+2026-08-11 22:07:46 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.18
+2026-08-11 22:08:40 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.19
+2026-08-11 22:08:48 [FIREWALL] Connection allowed from 10.0.0.55 to 10.0.1.7:443
+2026-08-11 22:09:44 [FIREWALL] Connection allowed from 10.0.0.28 to 10.0.1.7:443
+2026-08-11 22:11:12 [FIREWALL] Connection allowed from 10.0.0.50 to 10.0.1.9:443
+2026-08-11 22:11:49 [AUTH] Successful login for user asingh from 10.0.0.41
+2026-08-11 22:12:47 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.17
+2026-08-11 22:13:04 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.18
+2026-08-11 22:13:54 [FIREWALL] Connection allowed from 10.0.0.23 to 10.0.1.6:443
+2026-08-11 22:14:09 [AUTH] Successful login for user tpatel from 10.0.0.45
+2026-08-11 22:14:19 [AUTH] Successful login for user tpatel from 10.0.0.22
+2026-08-11 22:15:11 [AUTH] Successful login for user tpatel from 10.0.0.56
+2026-08-11 22:15:24 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.7
+2026-08-11 22:15:31 [FIREWALL] Connection allowed from 10.0.0.22 to 10.0.1.11:443
+2026-08-11 22:15:42 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.4
+2026-08-11 22:17:08 [AUTH] Successful login for user rwilliams from 10.0.0.57
+2026-08-11 22:17:26 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.15
+2026-08-11 22:18:44 [AUTH] Successful login for user asingh from 10.0.0.44
+2026-08-11 22:20:46 [FILE] User asingh accessed \fileserver\shared\report_528.docx
+2026-08-11 22:21:51 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.5
+2026-08-11 22:26:33 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.14
+2026-08-11 22:26:38 [FILE] User mworkman accessed \fileserver\shared\report_429.docx
+2026-08-11 22:27:47 [PROC] Process explorer.exe started for user klee PID 5562
+2026-08-11 22:28:17 [FIREWALL] Connection allowed from 10.0.0.40 to 10.0.1.11:443
+2026-08-11 22:28:24 [PROC] Process explorer.exe started for user asingh PID 8874
+2026-08-11 22:29:30 [FILE] User tpatel accessed \fileserver\shared\report_169.docx
+2026-08-11 22:30:12 [FIREWALL] Connection allowed from 10.0.0.20 to 10.0.1.1:443
+2026-08-11 22:31:40 [FILE] User tpatel accessed \fileserver\shared\report_949.docx
+2026-08-11 22:33:27 [FIREWALL] Connection allowed from 10.0.0.27 to 10.0.1.11:443
+2026-08-11 22:33:40 [FILE] User tpatel accessed \fileserver\shared\report_558.docx
+2026-08-11 22:36:48 [FIREWALL] Connection allowed from 10.0.0.31 to 10.0.1.13:443
+2026-08-11 22:36:55 [FILE] User rwilliams accessed \fileserver\shared\report_919.docx
+2026-08-11 22:37:27 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.18
+2026-08-11 22:38:03 [FIREWALL] Connection allowed from 10.0.0.51 to 10.0.1.15:443
+2026-08-11 22:39:31 [FIREWALL] Connection allowed from 10.0.0.21 to 10.0.1.5:443
+2026-08-11 22:39:37 [PROC] Process explorer.exe started for user asingh PID 2225
+2026-08-11 22:40:14 [FIREWALL] Connection allowed from 10.0.0.47 to 10.0.1.16:443
+2026-08-11 22:42:01 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.2
+2026-08-11 22:42:06 [AUTH] Successful login for user tpatel from 10.0.0.42
+2026-08-11 22:42:30 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.1
+2026-08-11 22:43:06 [FIREWALL] Connection allowed from 10.0.0.39 to 10.0.1.15:443
+2026-08-11 22:43:27 [FIREWALL] Connection allowed from 10.0.0.26 to 10.0.1.17:443
+2026-08-11 22:44:29 [PROC] Process explorer.exe started for user tpatel PID 5637
+2026-08-11 22:44:36 [AUTH] Successful login for user rwilliams from 10.0.0.39
+2026-08-11 22:46:32 [PROC] Process explorer.exe started for user mworkman PID 6152
+2026-08-11 22:46:33 [FILE] User klee accessed \fileserver\shared\report_726.docx
+2026-08-11 22:47:34 [FILE] User jsmith accessed \fileserver\shared\report_843.docx
+2026-08-11 22:47:41 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.8
+2026-08-11 22:47:41 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.9
+2026-08-11 22:47:47 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.14
+2026-08-11 22:49:31 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.3
+2026-08-11 22:50:06 [FILE] User rwilliams accessed \fileserver\shared\report_546.docx
+2026-08-11 22:51:47 [FIREWALL] Connection allowed from 10.0.0.25 to 10.0.1.8:443
+2026-08-11 22:52:35 [AUTH] Successful login for user mworkman from 10.0.0.26
+2026-08-11 22:53:16 [PROC] Process explorer.exe started for user rwilliams PID 4470
+2026-08-11 22:53:28 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.19
+2026-08-11 22:53:33 [PROC] Process explorer.exe started for user tpatel PID 4418
+2026-08-11 22:56:35 [FILE] User tpatel accessed \fileserver\shared\report_920.docx
+2026-08-11 22:58:28 [AUTH] Successful login for user jsmith from 10.0.0.40
+2026-08-11 22:58:42 [FILE] User klee accessed \fileserver\shared\report_31.docx
+2026-08-11 22:58:51 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.16
+2026-08-11 22:59:56 [FILE] User asingh accessed \fileserver\shared\report_596.docx
+2026-08-11 23:00:29 [FILE] User mworkman accessed \fileserver\shared\report_732.docx
+2026-08-11 23:00:31 [FILE] User klee accessed \fileserver\shared\report_436.docx
+2026-08-11 23:01:37 [PROC] Process explorer.exe started for user mworkman PID 6825
+2026-08-11 23:01:44 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.4
+2026-08-11 23:01:48 [FILE] User tpatel accessed \fileserver\shared\report_93.docx
+2026-08-11 23:02:29 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.4
+2026-08-11 23:02:37 [PROC] Process explorer.exe started for user mworkman PID 6622
+2026-08-11 23:03:53 [FILE] User klee accessed \fileserver\shared\report_127.docx
+2026-08-11 23:03:59 [PROC] Process explorer.exe started for user mworkman PID 4973
+2026-08-11 23:05:18 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.13
+2026-08-11 23:05:37 [AUTH] Successful login for user rwilliams from 10.0.0.28
+2026-08-11 23:06:49 [PROC] Process explorer.exe started for user klee PID 8232
+2026-08-11 23:07:11 [FILE] User mworkman accessed \fileserver\shared\report_902.docx
+2026-08-11 23:08:05 [FILE] User klee accessed \fileserver\shared\report_206.docx
+2026-08-11 23:08:16 [AUTH] Successful login for user asingh from 10.0.0.48
+2026-08-11 23:08:47 [PROC] Process explorer.exe started for user tpatel PID 4371
+2026-08-11 23:09:22 [FILE] User klee accessed \fileserver\shared\report_534.docx
+2026-08-11 23:09:42 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.9
+2026-08-11 23:11:16 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.15
+2026-08-11 23:11:41 [FILE] User jsmith accessed \fileserver\shared\report_907.docx
+2026-08-11 23:11:56 [AUTH] Successful login for user rwilliams from 10.0.0.43
+2026-08-11 23:12:15 [FIREWALL] Connection allowed from 10.0.0.33 to 10.0.1.8:443
+2026-08-11 23:13:40 [FIREWALL] Connection allowed from 10.0.0.59 to 10.0.1.15:443
+2026-08-11 23:14:28 [FIREWALL] Connection allowed from 10.0.0.33 to 10.0.1.17:443
+2026-08-11 23:15:06 [FILE] User rwilliams accessed \fileserver\shared\report_843.docx
+2026-08-11 23:15:10 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.18
+2026-08-11 23:15:14 [FILE] User klee accessed \fileserver\shared\report_393.docx
+2026-08-11 23:16:10 [FILE] User mworkman accessed \fileserver\shared\report_790.docx
+2026-08-11 23:17:37 [FILE] User klee accessed \fileserver\shared\report_800.docx
+2026-08-11 23:18:01 [PROC] Process explorer.exe started for user klee PID 4650
+2026-08-11 23:18:28 [FIREWALL] Connection allowed from 10.0.0.53 to 10.0.1.6:443
+2026-08-11 23:18:45 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.4
+2026-08-11 23:20:05 [PROC] Process explorer.exe started for user tpatel PID 4172
+2026-08-11 23:20:38 [FILE] User jsmith accessed \fileserver\shared\report_985.docx
+2026-08-11 23:21:16 [FILE] User klee accessed \fileserver\shared\report_955.docx
+2026-08-11 23:21:28 [AUTH] Successful login for user klee from 10.0.0.27
+2026-08-11 23:21:57 [AUTH] Successful login for user mworkman from 10.0.0.32
+2026-08-11 23:22:03 [AUTH] Successful login for user asingh from 10.0.0.34
+2026-08-11 23:22:15 [PROC] Process explorer.exe started for user tpatel PID 5975
+2026-08-11 23:24:22 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.8
+2026-08-11 23:24:49 [AUTH] Successful login for user asingh from 10.0.0.44
+2026-08-11 23:24:51 [FIREWALL] Connection allowed from 10.0.0.33 to 10.0.1.5:443
+2026-08-11 23:24:59 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.10
+2026-08-11 23:25:18 [AUTH] Successful login for user mworkman from 10.0.0.51
+2026-08-11 23:26:10 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.12
+2026-08-11 23:28:35 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.4
+2026-08-11 23:29:45 [FIREWALL] Connection allowed from 10.0.0.38 to 10.0.1.3:443
+2026-08-11 23:30:13 [FIREWALL] Connection allowed from 10.0.0.37 to 10.0.1.18:443
+2026-08-11 23:30:48 [FILE] User mworkman accessed \fileserver\shared\report_424.docx
+2026-08-11 23:32:11 [FIREWALL] Connection allowed from 10.0.0.27 to 10.0.1.9:443
+2026-08-11 23:33:13 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.11
+2026-08-11 23:36:14 [FILE] User rwilliams accessed \fileserver\shared\report_444.docx
+2026-08-11 23:37:01 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.13
+2026-08-11 23:37:01 [FILE] User asingh accessed \fileserver\shared\report_354.docx
+2026-08-11 23:37:02 [AUTH] Successful login for user klee from 10.0.0.52
+2026-08-11 23:37:31 [FILE] User klee accessed \fileserver\shared\report_103.docx
+2026-08-11 23:37:48 [PROC] Process explorer.exe started for user rwilliams PID 7820
+2026-08-11 23:38:23 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.16
+2026-08-11 23:38:28 [FILE] User mworkman accessed \fileserver\shared\report_660.docx
+2026-08-11 23:39:15 [PROC] Process explorer.exe started for user rwilliams PID 7714
+2026-08-11 23:41:54 [PROC] Process explorer.exe started for user jsmith PID 3496
+2026-08-11 23:42:12 [FIREWALL] Connection allowed from 10.0.0.31 to 10.0.1.15:443
+2026-08-11 23:42:29 [FIREWALL] Connection allowed from 10.0.0.45 to 10.0.1.2:443
+2026-08-11 23:42:35 [FIREWALL] Connection allowed from 10.0.0.33 to 10.0.1.11:443
+2026-08-11 23:42:51 [AUTH] Successful login for user tpatel from 10.0.0.35
+2026-08-11 23:43:12 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.5
+2026-08-11 23:44:48 [FIREWALL] Connection allowed from 10.0.0.25 to 10.0.1.4:443
+2026-08-11 23:46:03 [FIREWALL] Connection allowed from 10.0.0.33 to 10.0.1.18:443
+2026-08-11 23:46:19 [AUTH] Successful login for user mworkman from 10.0.0.53
+2026-08-11 23:46:27 [FILE] User mworkman accessed \fileserver\shared\report_508.docx
+2026-08-11 23:47:13 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.19
+2026-08-11 23:48:07 [AUTH] Successful login for user tpatel from 10.0.0.46
+2026-08-11 23:48:37 [FIREWALL] Connection allowed from 10.0.0.34 to 10.0.1.11:443
+2026-08-11 23:48:51 [AUTH] Successful login for user rwilliams from 10.0.0.26
+2026-08-11 23:49:28 [FILE] User tpatel accessed \fileserver\shared\report_921.docx
+2026-08-11 23:49:37 [PROC] Process explorer.exe started for user rwilliams PID 6326
+2026-08-11 23:50:28 [FIREWALL] Connection allowed from 10.0.0.35 to 10.0.1.10:443
+2026-08-11 23:50:35 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.10
+2026-08-11 23:51:36 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.11
+2026-08-11 23:52:35 [FILE] User asingh accessed \fileserver\shared\report_657.docx
+2026-08-11 23:53:08 [FIREWALL] Connection allowed from 10.0.0.56 to 10.0.1.17:443
+2026-08-11 23:53:35 [PROC] Process explorer.exe started for user klee PID 2853
+2026-08-11 23:53:56 [FIREWALL] Connection allowed from 10.0.0.58 to 10.0.1.4:443
+2026-08-11 23:54:05 [AUTH] Successful login for user tpatel from 10.0.0.23
+2026-08-11 23:54:36 [AUTH] Successful login for user tpatel from 10.0.0.29
+2026-08-11 23:55:05 [AUTH] Successful login for user tpatel from 10.0.0.56
+2026-08-11 23:55:09 [AUTH] Successful login for user klee from 10.0.0.25
+2026-08-11 23:55:15 [FIREWALL] Connection allowed from 10.0.0.47 to 10.0.1.19:443
+2026-08-11 23:56:40 [AUTH] Successful login for user tpatel from 10.0.0.24
+2026-08-11 23:58:48 [PROC] Process explorer.exe started for user jsmith PID 3085
+2026-08-11 23:59:21 [DNS] Query for internal-app.corp-internal.local resolved to 10.0.1.9
+2026-08-11 23:59:35 [FIREWALL] Connection allowed from 10.0.0.33 to 10.0.1.10:443
+2026-08-11 23:59:46 [PROC] Process explorer.exe started for user klee PID 2945

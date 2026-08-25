@@ -1,0 +1,3 @@
+Mailbox,RuleName,ForwardTo,DeleteMessage,Enabled,Date
+jdoe@corp-internal.local,Update,jdoe.backup@0utlook-secure.com,True,True,2026-08-12 09:50:12
+asmith@corp-internal.local,Archive Newsletters,,False,True,2026-08-01 08:00:00

@@ -1,0 +1,24 @@
+Received: from mail-relay-9.evil-mail.com (unknown [45.33.32.156])
+	by mx.corp-internal.local with ESMTP id AB12CD34
+	for <finance@corp-internal.local>; Mon, 10 Aug 2026 03:16:50 +0000
+From: "IT Support" <support@corp-lnternal.local>
+To: finance@corp-internal.local
+Reply-To: drop.exfil@evil-mail.com
+Subject: Urgent: Password Reset Required
+Date: Mon, 10 Aug 2026 03:16:48 +0000
+Message-ID: <a1b2c3@evil-mail.com>
+Content-Type: text/plain; charset="utf-8"
+
+Dear User,
+
+Your account password will expire today. Please verify your identity
+immediately by visiting the link below, or contact us at
+support-helpdesk@corp-lnternal.local:
+
+http://malicious-c2-panel.xyz/reset?token=9f8e7d6c
+
+If you did not request this, please forward this message to
+security@corp-internal.local.
+
+Thanks,
+IT Support Team

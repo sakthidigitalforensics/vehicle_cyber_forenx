@@ -1,0 +1,14 @@
+2026-08-19 08:00:12 [TELEMATICS] Ignition ON for VIN 1HGCM82633A004352 with registered key fob FOB-1187 - normal shift start at Meridian Depot - Chennai.
+2026-08-19 14:32:00 [TELEMATICS] Ignition OFF for VIN 1HGCM82633A004352 at Meridian Depot - Chennai, odometer 118970 km - shift ended normally.
+2026-08-20 02:14:03 [TELEMATICS] Ignition ON for VIN 1HGCM82633A004352 - key fob not recognized (immobilizer bypass suspected).
+2026-08-20 02:15:10 [TELEMATICS] GPS fix for VIN 1HGCM82633A004352: 13.0827,80.2707 (Meridian Depot - Chennai).
+2026-08-20 02:15:40 [TELEMATICS] GPS fix for VIN 1HGCM82633A004352: 6.5244,3.3792 (Lagos, NG) - roughly 8,400 km from the previous fix logged 30 seconds earlier.
+2026-08-20 02:20:00 [TELEMATICS] OBD-II diagnostic session opened on VIN 1HGCM82633A004352 by technician UNKNOWN-77 (not an authorized technician ID).
+2026-08-20 02:24:00 [TELEMATICS] DTC U0100 (Lost Communication with ECM) set on VIN 1HGCM82633A004352.
+2026-08-20 02:26:30 [TELEMATICS] DTC U0100 (Lost Communication with ECM) cleared on VIN 1HGCM82633A004352, roughly two and a half minutes after being set.
+2026-08-20 02:30:00 [TELEMATICS] Odometer reading for VIN 1HGCM82633A004352: 82,340 km (previous reading 118,958 km) - a drop of over 36,000 km with no service record.
+2026-08-20 02:35:00 [TELEMATICS] Geofence breach: VIN 1HGCM82633A004352 entered restricted zone 'Unauthorized Border Crossing - Zone 7'.
+2026-08-20 02:40:00 [TELEMATICS] Ignition OFF for VIN 1HGCM82633A004352 - vehicle went dark shortly after the geofence breach alert.
+2026-08-20 08:00:00 [TELEMATICS] Ignition ON for VIN 1HGCM82633A004352 with registered key fob FOB-1187 - vehicle back at Meridian Depot - Chennai, resuming normal fleet duty.
+2026-08-19 07:50:00 [TELEMATICS] Ignition ON for VIN 3FADP4EJ1BM145236 with registered key fob FOB-2044 - normal shift start, no anomalies observed for this vehicle across the reporting window.
+2026-08-20 10:00:00 [TELEMATICS] Ignition OFF for VIN 3FADP4EJ1BM145236 at Meridian Depot - Chennai, odometer 95,286 km - clean baseline vehicle for comparison.
